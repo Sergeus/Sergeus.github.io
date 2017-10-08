@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Home
 ---
 
 Hello world
