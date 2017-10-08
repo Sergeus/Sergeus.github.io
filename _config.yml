@@ -1,5 +1,8 @@
-theme: jekyll-theme-time-machine
 title: Pokémania Blog
 description: Understanding the Pokémon data set
-google_analytics: UA-107752319-1
+theme: jekyll-theme-time-machine
 show_github: false
+
+google_analytics: UA-107752319-1
+
+repository: sergeus/sergeus.github.io
