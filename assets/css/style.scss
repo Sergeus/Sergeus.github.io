@@ -2,9 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+
 .download-bar > .inner {
 	color: white;
 };
 .title > a {
-	color:inherit;
+	color: inherit;
+};
+
+img {
+	display: block;
+	margin: auto;
+};
+
+img + em {
+	display: block;
+	text-align: center;
+	font-size: small;
+	color: grey;
 };
