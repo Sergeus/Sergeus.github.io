@@ -2,7 +2,7 @@
 title: Home
 ---
 
-If you're wondering what the heck this is all about then check out the [About page](/about.html). Otherwise we'll get straight to the posts.
+This is a blog where I talk about the crazy unique properties of Pokémon that you never noticed while playing the games. If you want to know more about this blog and me, check out the [About page](/about.html). Otherwise we'll get straight to the posts.
 
 ---
 
