@@ -34,5 +34,56 @@ Even better, the differences between Black & White and Black 2 & White *aren't e
 
 If you read the [about page](/about.html), I told you Game Freak's designers are amazing and crazy, and this is exactly the kind of tiny detail that makes me think that.
 
-## Bonsly
-Bonsly does not learn Slam in Generation 6. 
+## [Bonsly](https://www.serebii.net/pokedex-bw/438.shtml)
+Bonsly does not learn [Slam](https://www.serebii.net/attackdex-xy/slam.shtml) in Generation 6. Slam is not a particularly noteworthy or powerful move. In fact, its relatively low accuracy often makes it annoying to use.
+
+In Pokémon Black & White, Bonsly learns Slam at level 38. In Pokémon Black 2 & White 2, Bonsly learns Slam at level 15. In fact, most of Bonsly's level up learnset has been modified between Black & White and Black 2 & White 2, but Slam is the only move that Bonsly *doesn't* also learn in Generation 6.
+
+This was the first Pokémon I ran into that had this kind of difference. I then began to wonder why this might be the case. Overall the changes to Bonsly's moves made it easier to train - it learns most moves at lower levels. Obviously, I can only conjecture why these changes were made.
+
+One reason might be that Bonsly wasn't easily available in Black & White: you had to use the Dream World - on the Pokémon website on PC or transfer it over from an even *older* game (Generation 4 and older). In Black 2 & White 2 you can find Bonsly in the game, but only through the relatively circuitous method of capturing a [Sudowoodo](https://www.serebii.net/pokedex-bw/185.shtml) from a [Swarm](https://www.serebii.net/black2white2/swarms.shtml) (which is only available after you beat the Elite Four and finish the main story) and breed it while it's holding a Rock Incense.
+
+![](/assets/img/sudowoodo.png){:height="200px"}
+*Sudowoodo, who Bonsly evolves into*
+
+By that stage of the game, the player seems unlikely to need assistance training a Bonsly. They've finished the game already and have proven they understand the more labyrinthine breeding mechanics.
+
+However, if you look back to the previous games, you may see another clue. Bonsly's level up learnset in Black & White is *the same* as its learnset was back in Generation 4 (Diamond, Pearl, & Platinum and Heart Gold & Soul Silver). It may simply be that since Bonsly wasn't available to be caught in Black & White, Game Freak didn't update its moves. When Bonsly became available in Black 2 & White 2, its learnset was readjusted to be in line with others in Generation 5.
+
+That's my guess for now.
+
+## Lucario
+Lucario does not learn [Force Palm](https://www.serebii.net/attackdex-bw/forcepalm.shtml) by level up in Generation 6.
+
+Similar to Bonsly, the level at which Lucario learns Force Palm changes between Black & White and Black 2 & White 2. But Lucario (and its pre-evolved form Riolu) haven't had their whole level up learnset changed. In Black & White they learn [Feint](https://www.serebii.net/attackdex-bw/feint.shtml) at level 11 and Force Palm at level 15. In Black 2 & White 2 they learn those moves the other way around.
+
+Like Bonsly, for two moves that have changed, Lucario and Riolu learn them at the same levels back in Generation 4. But unlike Bonsly, Lucario and Riolu's learnsets *were otherwise changed* moving from Generation 4 to Black & White.
+
+![](/assets/img/riolu.png){:height="200px"}
+*Riolu, who evolves into Lucario*
+
+I'm not sure about any reason for this change. Feint is a relatively complicated move to use correctly (it only works against specific moves used by your opponent), so learning it at a lower level seems more confusing in the early game, if anything. I'm sure there's a reason, and it's this kind of mystery that keeps me coming back to trying to figure all of this out.
+
+Oh, and you might be wondering why I called out Lucario in the header of this section, and not Riolu? Since I've said about that Riolu's level up learnset *did* change between Black & White and Black 2 & White 2.
+
+But of course, unlike Lucario who it evolves into, Riolu *does* still learn Force Palm by level up in Generation 6. And Riolu evolves when it levels up while very happy with its trainer (also only during the day) which is all very unlikely to come together before level 15, after which point none of this even matters because *it will already know Force Palm*. So there's that.
+
+## Vaporeon
+Fans of classic Pokémon will recognize Vaporeon as Eevee's water evolution from all the way back in the first games. Vaporeon doesn't learn [Bite](https://www.serebii.net/attackdex-bw/bite.shtml) in Generation 6.
+
+Bite is a fairly weak move, but notably changed from a Normal type move to a Dark type in Generation 2.
+
+In Black & White, Vaporeon learns Bite at level 32. Vaporeon *doesn't learn Bite* in Black 2 & White 2. *That's* interesting. So not only can we change which level they learn moves at, moves can be dropped altogether?
+
+Why might Game Freak have changed *this*? Bite was Vaporeon's only Dark type move in Black & White (the only one that does damage - it also learns [Fake Tears](https://www.serebii.net/attackdex-bw/faketears.shtml) as an egg move), so it does give it a bit more coverage - super effective attacks against Ghost and Psychic. Though it can already learn Shadow Ball (a Ghost type attack) by TM to do super effective damage against Psychic anyway.
+
+The [Water Stone](https://www.serebii.net/itemdex/waterstone.shtml) (which causes Eevee to evolve into Vaporeon) and Eevee itself are available much earlier in Black 2 & White 2 than in Black & White, so it may be a balancing change due to that. Like Bonsly and Lucario, Eevee (and therefore Vaporeon) wasn't available in Black & White without being transferred from an older game or the Dream World.
+
+![](/assets/img/eevee.png){:height="200px"}
+*Eevee, the Pokémon that evolves into Vaporeon (and 7 other eons)*
+
+But then, even though Vaporeon no longer learned Bite in Black 2 & White 2, Eevee *does*. At level 29. So if you really want Bite on Vaporeon in there, you can just level up Eevee to 29 first. Maybe that's it - a very subtle way of getting players to play with Eevee for a bit longer, instead of immediately evolving it into Vaporeon. I'm sure the other 5 folks in the world besides me who noticed this took their time!
+
+## Wrap Up
+
+And that's all we have for today! I've got a bunch more interesting Pokémon data tidbits, so I'll be back soon with another!
