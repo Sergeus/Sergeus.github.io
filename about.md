@@ -9,7 +9,7 @@ Making any sense of this blog requires you know at least a little about [Pokémo
 By "core Pokémon games," I mean the RPG titles developed by [Game Freak](https://en.wikipedia.org/wiki/Game_Freak), starting back with Red and Blue (or Red and Green) and all the way up to Ultra Sun and Ultra Moon. 
 
 [![](/assets/img/core-games-photo.jpg){:width="400px"}](/assets/img/core-games-photo.jpg){:target="_blank"}
-*These are my copies of the core Pokémon games, minus Red & Blue, which I have stored away somewhere so safe that even I don't know where they are*
+*These are my copies of the core Pokémon games, minus Red & Blue, which I have stored away somewhere so safe that even I don't know where they are. Also a plush Rowlet.*
 
 A hobby project that I've been working on for some time now is an application for tracking and training competitive Pokémon teams (imaginatively called [PokémonCompDB](/pokemoncompdb.html)). PokémonCompDB needs to understand the basic rules of how the Pokémon games work so that it can do its job. While developing this application, I've discovered that the designers at Game Freak are amazing. And crazy. 
 
