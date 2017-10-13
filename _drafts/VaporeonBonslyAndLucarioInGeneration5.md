@@ -28,7 +28,7 @@ Bonsly                                       | Lucario                          
 :-------------------------------------------:|:---------------------------------------------:|:----------------------------------------------:
 ![](/assets/img/bonsly.png){:height="200px"} | ![](/assets/img/Lucario.png){:height="200px"} | ![](/assets/img/Vaporeon.png){:height="200px"}
 
-These three Pokémon learn moves in Generation 5 that they can't learn in Generation 6. But they *also* don't learn those moves the same way in Black & White as they do in Black 2 and White 2 (all 4 of which are in Generation 5).
+These three Pokémon learn moves in Generation 5 that they can't learn in Generation 6. But they *also* don't learn those moves the same way in Black & White as they do in Black 2 & White 2 (all 4 of which are in Generation 5).
 
 Even better, the differences between Black & White and Black 2 & White *aren't even the same for all three*.
 
@@ -73,9 +73,9 @@ Fans of classic Pokémon will recognize Vaporeon as [Eevee](https://www.serebii.
 
 Vaporeon doesn't learn [Bite](https://www.serebii.net/attackdex-bw/bite.shtml) in Generation 6. Bite is a fairly weak move, but notably changed from a Normal type move to a Dark type move in Generation 2.
 
-In Black & White, Vaporeon learns Bite at level 32. Vaporeon *doesn't learn Bite* in Black 2 & White 2. *That's* interesting. So not only can we change which level they learn moves at, moves can be dropped altogether.
+In Black & White, Vaporeon learns Bite at level 32. Vaporeon *doesn't learn Bite* in Black 2 & White 2. So not only can the level they learn moves at change, but moves can be dropped altogether as well.
 
-Why might Game Freak have changed *this*? Bite was Vaporeon's only Dark type move in Black & White (the only one that does damage anyway - it also learns [Fake Tears](https://www.serebii.net/attackdex-bw/faketears.shtml) as an egg move), so it does give it a bit more coverage: super effective attacks against Ghost and Psychic. Though it can already learn [Shadow Ball](https://www.serebii.net/attackdex-bw/shadowball.shtml) (a Ghost type attack) by TM to do super effective damage against Psychic anyway.
+Why might Game Freak have changed this? Bite was Vaporeon's only Dark type move in Black & White (the only one that does damage anyway - it also learns [Fake Tears](https://www.serebii.net/attackdex-bw/faketears.shtml) as an egg move), so it does give it a bit more coverage: super effective attacks against Ghost and Psychic. Though it can already learn [Shadow Ball](https://www.serebii.net/attackdex-bw/shadowball.shtml) (a Ghost type attack) by TM to do super effective damage against Psychic anyway.
 
 The [Water Stone](https://www.serebii.net/itemdex/waterstone.shtml) (which causes Eevee to evolve into Vaporeon) and Eevee itself are available much earlier in Black 2 & White 2 than in Black & White, so it may be a balancing change due to that. Like Bonsly and Lucario, Eevee (and therefore Vaporeon) wasn't available in Black & White without being transferred from an older game or the Dream World.
 
@@ -86,4 +86,4 @@ But then, even though Vaporeon no longer learned Bite in Black 2 & White 2, Eeve
 
 ## Wrap Up
 
-And that's all we have for today! I've got a bunch more interesting Pokémon data tidbits, so I'll be back soon with another!
+And that's all we have for today! I've got a bunch more Pokémon data tidbits, so I'll be back soon with another!
