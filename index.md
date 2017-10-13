@@ -9,6 +9,7 @@ This is a blog where I talk about the crazy unique properties of Pokémon that y
 {% for post in site.posts %}
 
 # [{{ post.title }}]({{ post.url }})
+<small>*Posted {{ post.date | date: '%B %d, %Y' }}*</small>
 {{ post.excerpt }}
 
 ---

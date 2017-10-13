@@ -1,8 +1,9 @@
 ---
 title: Bonsly, Lucario, and Vaporeon in Generation 5
+inline_title: true
 ---
 
-Starting as I mean to continue, my first post is about how three specific Pokémon learn moves subtly and surprisingly differently from most others in Generation 5 (Pokémon Black & White and Black 2 & White 2). And by most others I mean all of the others in the then-494 total Pokémon.
+Starting as I mean to continue, my first post is about how three specific Pokémon learn moves subtly and surprisingly differently from most others in Generation 5 (Pokémon Black & White and Black 2 & White 2). And by "most others" I mean "all others of the then-494 total Pokémon."
 
 While developing [PokémonCompDB](/Pokémoncompdb.html), I needed to bundle up all of the data about how all of the different Pokémon learn their moves into a database for the application to use. This meant that I had to come up with common patterns between how these moves were learned.
 

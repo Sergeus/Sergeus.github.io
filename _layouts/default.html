@@ -40,6 +40,12 @@
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
+          {% if page.inline_title %}
+		  <h1>{{ page.title }}</h1>
+		  {% endif %}
+		  {% if page.date %}
+		  <small><em>Posted {{ page.date | date: '%B %d, %Y' }}</em></small>
+		  {% endif %}
           {{ content }}
         </article>
       </div>
