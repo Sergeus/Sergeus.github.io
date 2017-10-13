@@ -27,7 +27,7 @@ Out of 494 Pokémon available in Generation 5, there are three exceptions to tha
 
 Bonsly                                       | Lucario                                       | Vaporeon
 :-------------------------------------------:|:---------------------------------------------:|:----------------------------------------------:
-![](/assets/img/bonsly.png){:height="200px"} | ![](/assets/img/Lucario.png){:height="200px"} | ![](/assets/img/Vaporeon.png){:height="200px"}
+![](/assets/img/bonsly.png){:height="200px"} | ![](/assets/img/lucario.png){:height="200px"} | ![](/assets/img/vaporeon.png){:height="200px"}
 
 These three Pokémon learn moves in Generation 5 that they can't learn in Generation 6. But they *also* don't learn those moves the same way in Black & White as they do in Black 2 & White 2 (all 4 of which are in Generation 5).
 
