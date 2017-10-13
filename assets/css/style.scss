@@ -21,3 +21,14 @@ img + em {
 	font-size: small;
 	color: grey;
 };
+
+.title-bar {
+	width: 50%;
+	float: left;
+	vertical-align: text-center;
+};
+
+.rss-icon {
+	height: 1.5em;
+	float: right;
+};

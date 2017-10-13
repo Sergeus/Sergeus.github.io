@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="{{ '/assets/js/script.js' | relative_url }}"></script>
-
+{% feed_meta %}
 {% seo %}
   <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
 
@@ -35,7 +35,7 @@
           {% if site.show_github_in_header %}
           <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a>
           {% endif %}
-          <a href="/">Home</a> | <a href="/about.html">About</a> | <a href="/pokemoncompdb.html">PokémonCompDB</a>
+          <div class="title-bar"><a href="/">Home</a> | <a href="/about.html">About</a> | <a href="/pokemoncompdb.html">PokémonCompDB</a></div><div class="title-bar"><a href="/feed.xml"><img src="/assets/img/rss-feed-icon.png" class="rss-icon" /></a></div>
         </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
