@@ -65,7 +65,7 @@ Like Bonsly, for the two moves that have changed, Lucario and Riolu learn them a
 
 I'm not sure about any reason for this change. Feint is a relatively complicated move to use correctly (it only works against specific moves used by your opponent), so learning it at a lower level seems more confusing in the early game, if anything. I'm sure there's a reason, and it's this kind of mystery that keeps me coming back to trying to figure all of this out.
 
-Oh, and you might be wondering why I called out Lucario in the header of this section, and not Riolu? Since I've said about that Riolu's level up learnset *did* change between Black & White and Black 2 & White 2.
+Oh, and you might be wondering why I called out Lucario in the header of this section, and not Riolu? Since I've said above that Riolu's level up learnset *did* change between Black & White and Black 2 & White 2.
 
 But of course, unlike Lucario who it evolves into, Riolu *does* still learn Force Palm by level up in Generation 6. And Riolu evolves when it levels up while very happy with its trainer (also only during the day) which is all very unlikely to come together before level 15, after which point none of this even matters because *it will already know Force Palm*. So there's that.
 
