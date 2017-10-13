@@ -6,6 +6,7 @@ show_github: false
 google_analytics: UA-107752319-1
 
 repository: sergeus/sergeus.github.io
+exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
 
 plugins:
   - jekyll-feed
