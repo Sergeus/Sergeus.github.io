@@ -12,7 +12,7 @@ Originally there were two differences between TMs and HMs:
 * TMs were single-use and HMs were not
 * HMs could be used in the Pokémon overworld to traverse obstacles ([Surf](https://www.serebii.net/attackdex-xy/surf.shtml) across water, for example) once you had the right [gym badge](https://bulbapedia.bulbagarden.net/wiki/Badge). 
 
-As of Generation 5 (Black & White and Black 2 & White 2), TMs became multi-use. And in Generation 7 (Sun & Moon) HMs were retired in favor of [rideable Pokémon](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ride). (It remains to be seen if that change is permanent.)
+As of Generation 5 (Black & White and Black 2 & White 2), TMs became multi-use. And in Generation 7 (Sun & Moon) HMs were retired in favor of [rideable Pokémon](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ride). It remains to be seen if that change is permanent, but I prefer the rideable Pokémon a lot.
 
 ![](/assets/img/tmhms.png)
 *TMs and HMs. Color coded and everything.*
@@ -21,9 +21,9 @@ Like I mentioned in [my last post]({% post_url 2017-10-13-BonslyLucarioAndVapore
 
 Sun & Moon is no exception, so Pokémon are free to be imported over from Generation 6 (X & Y and Omega Ruby & Alpha Sapphire).
 
-A lot of Pokémon no longer learned moves in Generation 7 that they did in Generation 6 by TM or HM. That was fine - I'd already dealt with that kind of imported difference when I worked on Generation 6's database first.
+A lot of Pokémon no longer learned moves in Generation 7 that they did in Generation 6 by TM or HM. That was fine - I'd already dealt with that kind of imported difference when I worked on Generation 6's database.
 
-However, Omega Ruby and Alpha Sapphire, as their names suggest, are remakes of Ruby and Sapphire. Game Freak did change the TMs in them though - so the TMs and HMs in Omega Ruby & Alpha Sapphire were much like the ones in X & Y, rather than in Ruby & Sapphire.
+However, Omega Ruby and Alpha Sapphire, as their names suggest, are remakes of Ruby and Sapphire. Game Freak did change the TMs in them - so the TMs and HMs in Omega Ruby & Alpha Sapphire were much like the ones in X & Y, rather than being like the original Ruby & Sapphire.
 
 I say "much like," not "the same". [Rock Smash](https://www.serebii.net/attackdex/rocksmash.shtml) was a HM in the original Ruby & Sapphire, but remained a TM in all of the games since, including X & Y. Game Freak elected to return Rock Smash to its HM status in Omega Ruby & Alpha Sapphire, which meant that Generation 6 was the first one I'd run into that *didn't* have the same TMHM numbering across the whole thing. So things predictably didn't work.
 
@@ -39,4 +39,4 @@ I can only assume Game Freak did that to keep the TM numbers contiguous. (And be
 ![](/assets/img/nigel-thornberry.jpg)
 *I would be lying if I said this joke wasn't part of why I wrote this post.*
 
-Today's tidbit was fairly straightforward, and many of you readers probably noticed this change while playing the games. Little did you know the way it made Generation 6 subtly inconsistent from all those that came before it.
+Today's tidbit was fairly straightforward, and many of you readers probably noticed this change while playing the games. What tripped me up here was the way it made Generation 6 subtly inconsistent from all of the previous ones.
