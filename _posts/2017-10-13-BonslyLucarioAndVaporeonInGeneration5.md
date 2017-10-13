@@ -5,7 +5,7 @@ inline_title: true
 
 Starting as I mean to continue, my first post is about how three specific Pokémon learn moves subtly and surprisingly differently from most others in Generation 5 (Pokémon Black & White and Black 2 & White 2). And by "most others" I mean "all others of the then-494 total Pokémon."
 
-While developing [PokémonCompDB](/Pokémoncompdb.html), I needed to bundle up all of the data about how all of the different Pokémon learn their moves into a database for the application to use. This meant that I had to come up with common patterns between how these moves were learned.
+While developing [PokémonCompDB](/pokemoncompdb.html), I needed to bundle up all of the data about how all of the different Pokémon learn their moves into a database for the application to use. This meant that I had to come up with common patterns between how these moves were learned.
 
 Some patterns are fairly obvious. Many Pokémon learn a given move at a certain level. [Pikachu](https://www.serebii.net/pokedex-sm/025.shtml) learns Thunder Wave at level 18, for example. There is a bit of a wrinkle when this tends to vary by game. Pikachu learns Thunder Wave at level 18 *now*, in Pokémon Sun & Moon. But [back in Pokémon X & Y](https://www.serebii.net/pokedex-xy/025.shtml), Pikachu learned Thunder Wave at level 13.
 
