@@ -24,7 +24,8 @@ This brings me to my favorite sentence on all of Bulbapedia:
 
 > With the exceptions of Mega Drain (120), Weather Ball (160), Hex (160), Gear Grind (180), V-create (220), Flying Press (170), and Core Enforcer (140), the powers of the type-specific damaging Z-Moves follow the following conversion table for moves that have fixed base powers.
 
-Ha! *Ha!* Now that's a bit of a mindbender.
+Ha! *Ha!* Now that's a bit of a mindbender. It perfectly captures the insanity of trying to fit Pokémon into a neat little box of data.
 
 I'll be honest, PokémonCompDB doesn't support Z-Moves properly yet, partially because of this bonanza of rules that I need to create a system for understanding, representing, and displaying (displaying being the most challenging).
 
+So, let's deconstruct that sentence to work out what it actually means.
