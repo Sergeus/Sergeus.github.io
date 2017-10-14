@@ -3,6 +3,8 @@ title: HM05 Rock Smash and TM94 Secret Power
 inline_title: true
 ---
 
+// mention Dive
+
 When working to support the newly released Pokémon Sun & Moon <sup>(6 months after they came out)</sup> there were a lot of new concepts for me to wrestle with to represent the new mechanics [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) added in Generation 7. Things like [Alolan forms](https://bulbapedia.bulbagarden.net/wiki/Regional_variant) and [Z-Moves](https://bulbapedia.bulbagarden.net/wiki/Z-Move) were the visible, big ticket items, but I ran into an unexpected little problem with two TMHMs.
 
 To understand this post, I'll give you a brief bit of context about [TMs and HMs](https://bulbapedia.bulbagarden.net/wiki/TM) in Pokémon. TMs (Technical Machines) and HMs (Hidden Machines) are items in the Pokémon games that teach one of your Pokémon a certain move. They're numbered to indicate which move they teach. In Sun & Moon, TM13 teaches [Ice Beam](https://www.serebii.net/attackdex-sm/icebeam.shtml), for example. 
