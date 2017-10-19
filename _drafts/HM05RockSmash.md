@@ -3,8 +3,6 @@ title: HM05 Rock Smash and TM94 Secret Power
 inline_title: true
 ---
 
-// mention Dive
-
 When working to support the newly released Pokémon Sun & Moon <sup>(6 months after they came out)</sup> there were a lot of new concepts for me to wrestle with to represent the new mechanics [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) added in Generation 7. Things like [Alolan forms](https://bulbapedia.bulbagarden.net/wiki/Regional_variant) and [Z-Moves](https://bulbapedia.bulbagarden.net/wiki/Z-Move) were the visible, big ticket items, but I ran into an unexpected little problem with two TMHMs.
 
 To understand this post, I'll give you a brief bit of context about [TMs and HMs](https://bulbapedia.bulbagarden.net/wiki/TM) in Pokémon. TMs (Technical Machines) and HMs (Hidden Machines) are items in the Pokémon games that teach one of your Pokémon a certain move. They're numbered to indicate which move they teach. In Sun & Moon, TM13 teaches [Ice Beam](https://www.serebii.net/attackdex-sm/icebeam.shtml), for example. 
@@ -14,7 +12,7 @@ Originally there were two differences between TMs and HMs:
 * TMs were single-use and HMs were not
 * HMs could be used in the Pokémon overworld to traverse obstacles ([Surf](https://www.serebii.net/attackdex-xy/surf.shtml) across water, for example) once you had the right [gym badge](https://bulbapedia.bulbagarden.net/wiki/Badge). 
 
-As of Generation 5 (Black & White and Black 2 & White 2), TMs became multi-use. And in Generation 7 (Sun & Moon) HMs were retired in favor of [rideable Pokémon](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ride). It remains to be seen if that change is permanent, but I prefer the rideable Pokémon a lot.
+As of Generation 5 (Black & White and Black 2 & White 2), TMs became multi-use. And in Generation 7 (Sun & Moon) HMs were retired in favor of [rideable Pokémon](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Ride). It remains to be seen if that change is permanent, but I'm a big fan of the rideable Pokémon approach.
 
 ![](/assets/img/tmhms.png)
 *TMs and HMs. Color coded and everything.*
@@ -41,4 +39,6 @@ I can only assume Game Freak did that to keep the TM numbers contiguous. (And be
 ![](/assets/img/nigel-thornberry.jpg)
 *I would be lying if I said this joke wasn't part of why I wrote this post.*
 
-Today's tidbit was fairly straightforward, and many of you readers probably noticed this change while playing the games. What tripped me up here was the way it made Generation 6 subtly inconsistent from all of the previous ones.
+Eagle-eyed readers will also know that [Dive](https://www.serebii.net/attackdex-xy/dive.shtml) is special in a similar way to Rock Smash. Dive is a HM in Omega Ruby & Alpha Sapphire (HM07), but it is neither a TM nor HM in X & Y. There are several Pokémon that only learn Dive this way, so [PokémonCompDB](/pokemoncompdb.html) is set up to direct the user specifically to Omega Ruby & Alpha Sapphire (where Rock Smash needs different instructions for the two pairs of games in Generation 6).
+
+Today's tidbit was fairly straightforward and many of you readers probably noticed this change while playing the games. It wasn't until I tried to put these moves into a consistent data format that I realized that this change was subtly inconsistent with previous generations.
