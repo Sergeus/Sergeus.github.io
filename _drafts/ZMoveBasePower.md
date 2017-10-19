@@ -3,18 +3,18 @@ title: Z-Move Base Power
 inline_title: true
 ---
 
-[Z-moves](https://bulbapedia.bulbagarden.net/wiki/Z-Move) are one of the new headline features in Generation 7 (Sun & Moon). There are quite a few unique things about them compared to... pretty much every other move that's come before. They can be used only once per battle, to transform one of your Pokémon's existing moves into a more powerful Z-Move. They're unlocked by a special item called a Z-Crystal that the Pokémon must be holding, with one Z-Crystal available per type. <sup>(And a few that are only for specific Pokémon like Pikashunium Z for Pikachu.)</sup> They have hugely different effects based on which normal move you turn into a Z-Move.
+[Z-moves](https://bulbapedia.bulbagarden.net/wiki/Z-Move) are one of the new headline features in Generation 7 (Sun & Moon). There are quite a few unique things about them compared to... pretty much every other move that's come before. They can be used, only once per battle, to transform one of your Pokémon's existing moves into a more powerful Z-Move. They're unlocked by a special item called a [Z-Crystal](https://www.serebii.net/itemdex/list/zcrystal.shtml) that the Pokémon must be holding, with one Z-Crystal available per type. <sup>(And a few that are only for specific Pokémon like [Pikashunium Z](https://www.serebii.net/itemdex/pikashuniumz.shtml) for Pikachu.)</sup> They have hugely different effects based on which normal move you turn into a Z-Move.
 
-Along with a couple of Pokémon-specific Z-Crystals, there is a grand total of one Z-Crystal that can be used by *multiple **specific*** Pokémon: Tapunium Z, which is used by Tapu Koko, Tapu Lele, Tapu Bulu, and Tapu Fini. It works on only one move, Nature's Madness, and only works for them. Z-Moves also have completely arbitrary effects when used to transform non-damaging moves into Z-Moves (each effect is unique to each non-damaging move, though they tend to follow the theme of the move). And in that case, the original effects of the non-damaging move *still happen*.
+Along with a couple of Pokémon-specific Z-Crystals, there is a grand total of one Z-Crystal that can be used by *multiple **specific*** Pokémon: [Tapunium Z](https://www.serebii.net/itemdex/tapuniumz.shtml), which is used by [Tapu Koko](https://www.serebii.net/pokedex-sm/785.shtml), [Tapu Lele](https://www.serebii.net/pokedex-sm/786.shtml), [Tapu Bulu](https://www.serebii.net/pokedex-sm/787.shtml), and [Tapu Fini](https://www.serebii.net/pokedex-sm/788.shtml). It works on only one move, [Nature's Madness](https://www.serebii.net/attackdex-sm/nature'smadness.shtml), and only works for them. Z-Moves also have completely arbitrary effects when used to transform non-damaging moves into Z-Moves (each effect is unique to each non-damaging move, though they tend to follow the theme of the move). And in that case, the original effects of the non-damaging move *still happen*.
 
 There are also some bizarrely specific effects for Z-Crystals that you may not have noticed:
 
-* Holding a Z-Crystal prevents Rayquaza from mega-evolving
-* Arceus's type changes when holding a Z-Crystal, but Silvally's does not (NEEDS CONFIRMATION)
+* Holding a Z-Crystal prevents [Rayquaza](https://www.serebii.net/pokedex-sm/384.shtml) from mega-evolving
+* [Arceus](https://www.serebii.net/pokedex-sm/493.shtml)'s type changes when holding a Z-Crystal, but [Silvally](https://www.serebii.net/pokedex-sm/773.shtml)'s does not (NEEDS CONFIRMATION)
 
 But we're not here to talk about most of that. Today we're talking about how you work out the Base Power of a Z-Move that's going to do damage.
 
-Firstly, how do you know a Z-Move is going to do damage? In Pokémon, many moves have a Base Power. Higher Base Power means it will do more damage when used by the same Pokémon against the same opposing Pokémon. (I won't get into the myriad other modifiers that take effect afterwards, but you can look into it here if you want to learn more.) Moves that don't have a Base Power - often referred to as status or non-damaging moves - have some other arbitrary effect, but don't actually cause any damage to the opposing Pokémon. Thunder Wave, for example, paralyzes your opponent but does no damage to them.
+Firstly, how do you know a Z-Move is going to do damage? In Pokémon, many moves have a [Base Power](https://bulbapedia.bulbagarden.net/wiki/Power). Higher Base Power means it will do more damage when used by the same Pokémon against the same opposing Pokémon. (I won't get into the myriad other modifiers that take effect afterwards, but you can look into it [here](https://bulbapedia.bulbagarden.net/wiki/Damage) if you want to learn more.) Moves that don't have a Base Power - often referred to as status or non-damaging moves - have some other arbitrary effect, but don't actually cause any damage to the opposing Pokémon. Thunder Wave, for example, paralyzes your opponent but does no damage to them.
 
 Any move that has Base Power will become a damaging Z-Move. Which move it becomes (Breakneck Blitz vs Tectonic Rage vs any of the others) is determined by the original move's type. If you're like me, when you played Pokemon Sun & Moon, you generally went by the rule of thumb that Z-Moves do "a lot of damage"™.
 
@@ -44,7 +44,7 @@ I don't really know why these 7 moves are different. But they are! So we'll move
 
 So this information is only valid for the Z-Moves that are type-specific and damaging. Non-damaging Z-Moves (such as Z-Thunder Wave) do their own thing. Damaging Z-Moves that aren't type-specific (like Stoked Sparksurfer on Alolan Raichu, from the Aloraichium Z Z-Crystal) also do their own thing.
 
-This part makes sense - the non-damaging Z-Moves are conceptually separate. The non-type-specific Z-Moves are used to call out famous and special Pokémon and make them feel more empowered. It makes sense that those moves can also diverge from the patterns of other Z-Moves. (Though I'll need to store that information as well!)
+This part is fairly self explanatory - the non-damaging Z-Moves are conceptually separate. The non-type-specific Z-Moves are used to call out famous and special Pokémon and make them feel more empowered. It makes sense that those moves can also diverge from the patterns of other Z-Moves. (Though I'll need to store that information as well!)
 
 Next up:
 
@@ -65,13 +65,14 @@ Here's the table they're talking about:
 | 130               | 195               |
 | 140+              | 200               |
 
-If, like me, you were caught off guard by this table not being contiguous, know that the Base Power of all fixed Base Power moves in Pokémon is divisible by 5. (Can't wait until *that* changes at some point!)
+If, like me, you were caught off guard by this table not being contiguous, know that the Base Power of all fixed Base Power moves in Pokémon is divisible by 5. (Can't wait until *that* changes at some point!) And why are 105, 115, 125, and 135 missing? Because there are no moves that have a Base Power of any of those Base Power values in Sun & Moon. (Another thing I'm sure will change eventually and make this table subtly wrong in future games.)
 
-So the Base Power of the Z-Move varies depending on which move was turned into it. From an experience point of view, this makes a lot of sense. I expect Hyper Beam turned into a Z-Move to do more damage than Tackle, even if they both become a Z-Move with the same name (Breakneck Blitz).
+So the Base Power of the Z-Move varies depending on which move was turned into it. As a player thinking about this it makes a lot of sense. I expect Hyper Beam turned into a Z-Move to do more damage than Tackle, even if they both become a Z-Move with the same name (Breakneck Blitz).
 
-It's interesting that the progression isn't linear. Or even particularly consistent. But it does follow the "higher does more damage" pattern you would expect as a player.
+It's interesting that the progression isn't linear. There is a baseline Base Power of 100 and then has a diminishing increase in Base Power as you go above Base Power 60 with the move being transformed. It generally follows the "higher does more damage" pattern you would expect as a player.
 
-// graph here
+![](/assets/img/z-move-base-power-graph.png)
+*You can see the diminishing increase in Base Power*
 
 Interestingly if you have a high enough Base Power move to start with (more than 200), turning a move into a Z-Move causes it to do less damage. The only move with high enough Base Power for this to happen is Explosion becoming Breakneck Blitz.
 
