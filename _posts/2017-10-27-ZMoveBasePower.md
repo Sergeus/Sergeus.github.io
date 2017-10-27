@@ -64,7 +64,7 @@ Next up:
 
 Here's the table they're talking about:
 
-![](/assets/img/z-move-power-table.png)
+![](/assets/img/z-move-power-table.PNG)
 
 If, like me, you were caught off guard by this table not being contiguous, know that the Base Power of all fixed Base Power moves in Pokémon is divisible by 5. (Can't wait until *that* changes at some point!) And why are 105, 115, 125, and 135 missing? Because there are no moves that have a Base Power of any of those Base Power values in Sun & Moon. (Another thing I'm sure will change eventually and make this table subtly wrong in future games.)
 
