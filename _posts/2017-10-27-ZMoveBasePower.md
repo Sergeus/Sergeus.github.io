@@ -72,7 +72,7 @@ So the Base Power of the Z-Move varies depending on which move was turned into i
 
 It's interesting that the progression isn't completely linear. There is a baseline Base Power of 100 and then has a diminishing increase in Base Power as you go above Base Power 60 with the move being transformed. It generally follows the "higher does more damage" pattern you would expect as a player.
 
-![](/assets/img/z-move-base-power-graph.png)
+![](/assets/img/z-move-base-power-graph.PNG)
 *Fear my Excel graphs!*
 
 Interestingly if you have a high enough Base Power move to start with (more than 200), turning a move into a Z-Move causes it to do less damage. The only move with high enough Base Power for this to happen is [Explosion](https://www.serebii.net/attackdex-sm/explosion.shtml) becoming Breakneck Blitz.
