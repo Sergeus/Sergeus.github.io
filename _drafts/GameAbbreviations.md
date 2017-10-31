@@ -25,11 +25,15 @@ On a lot of the fan sites that I was parsing to generate the data set for Pokém
 
 I'll trust you to pick apart which bits of the abbreviations refer to which names. Often this meant that when there are divergences between the two games within a generation (like I described in [my post about Bonsly, Lucario and Vaporeon in Generation 5]({% post_url 2017-10-13-BonslyLucarioAndVaporeonInGeneration5 %})), I would need to recognize the individual game's abbreviation in isolation.
 
+Eagle-eyed readers also know that Colosseum & Gale of Darkness on the GameCube are in the mix as well. Fortunately their names didn't cause any issues here.
+
 Then along came Sun & Moon. Immediately there's a problem: does S mean Sun or Sapphire?
 
 While unexpected, this was resolved easily enough. Sapphire came first - it has "claimed" the abbreviation S. I'll use "Su" for Sun and all will be well. As Sun is the latest game at the moment, any data is implicitly for Sun & Moon, unless it specifies otherwise (like if the site listed that you must import a Pokémon from Diamond & Pearl, then that data is associated with those games).
 
-However, Nintendo did something else unexpected. They re-released Red & Blue and Gold & Silver on the Virtual Console for the 3DS. And they *added* the capability to import from the digital versions of these classic games into Pokémon Bank, and from there into Sun & Moon. Like all other Pokémon games, Generations 1 and 2 provided some unique moves that could be learned by certain Pokémon. UNIQUE MOVE EXAMPLE HERE
+However, Nintendo did something else unexpected. They re-released Red & Blue and Gold & Silver on the Virtual Console for the 3DS. And they *added* the capability to import from the digital versions of these classic games into Pokémon Bank, and from there into Sun & Moon.
+
+Like all other Pokémon games, Generations 1 and 2 provided some unique moves that could be learned by certain Pokémon. [Jolteon](https://www.serebii.net/pokedex-sm/135.shtml) only learns [Skull Bash](https://www.serebii.net/attackdex-sm/skullbash.shtml) through TM40 in Generation 1, for example. (And remember, like I [mentioned before]({% post_url 2017-10-20-HM05RockSmash %}), TMs were single use back in Generation 1, so you could only teach a *single* Pokémon Skull Bash via TM without restarting the game.)
 
 Suddenly there are *a lot* more games accessible in Sun & Moon than there were when I worked with Omega Ruby & Alpha Sapphire. And now, the abbreviation problem became a bit more pronounced:
 
@@ -40,8 +44,11 @@ Suddenly there are *a lot* more games accessible in Sun & Moon than there were w
 
 For my own data, I can change the abbreviations used for each game. I can follow the same logic I did for Sun - letting the older game "claim" the shortest abbreviation. Ruby is "Ru", Black is "Bl", Sapphire is "Sa", and Sun is "Su".
 
-But what do I do with Yellow? Y doesn't have any more letters. In the end I had to assign Yellow the abbreviation "Ye", due to lack of other letters, despite the almost universal acceptance of the abbreviation "RBY" for Red, Blue, & Yellow in Generation 1.
+But what do I do with Yellow? Y doesn't have any more letters to use, despite being the newer game. In the end I had to assign Yellow the abbreviation "Ye", due to lack of other letters, despite the almost universal acceptance of the abbreviation "RBY" for Red, Blue, & Yellow in Generation 1.
 
-Not to mention, most Pokémon fan sites are designed with human viewers in mind, not automated parsers. There is a lot of information embedded in the context of how you have navigated to where you are. If a move is learned in "Gen I (Y)" that's "obviously" Yellow, not Y. In these cases, I needed the parser to guess at context - it's not enough to just look at the abbreviations used for the games, you also need to know where you're importing your data for. Y will tend to mean different things when used alongside "RB" or "Gen I". "B" means something different next to "R" than "W", etc.
+![](/assets/img/pokemon-xy.jpg)
+*Clearly should have been Pokémon Xylophone and [Yunluo](https://en.wikipedia.org/wiki/Yunluo)*
+
+Not to mention, most Pokémon fan sites are designed with human viewers in mind, not automated parsers. There is a lot of information embedded in the context of how you have navigated to where you are. If a move is learned in "Gen I (Y)" that's "obviously" Yellow, not Y. In these cases, I needed the parser to guess at context - it's not enough to just look at the abbreviations used for the games, you also need to know where you're importing your data for. Y will tend to mean different things when used alongside "RB" or "Gen I". "B" means something different next to "R" than "W". "B" can't mean "Blue" if you're parsing data for Generation 6. And so on.
 
 This wasn't a particularly challenging technical problem (choose a set of unique strings), but it was one, like so many others, that I didn't expect to have so many permutations.
