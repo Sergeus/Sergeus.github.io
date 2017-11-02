@@ -14,14 +14,16 @@ For brevity, the Pokémon games are often referred to by an abbreviation. "RSE" 
 
 On a lot of the fan sites that I was parsing to generate the data set for PokémonCompDB, these abbreviations were used in place of the names of the game, also for brevity. When working with Omega Ruby & Alpha Sapphire, the following games were available to be imported from:
 
-* Ruby, Sapphire, & Emerald - RSE
-* Fire Red & Leaf Green - FRLG
-* Diamond, Pearl, & Platinum - DPPt
-* Heart Gold & Soul Silver - HGSS
-* Black & White - BW
-* Black 2 & White 2 - B2W2
-* X & Y - XY
-* Omega Ruby & Alpha Sapphure - ΩRαS (or ORAS)
+| Games                       | Abbreviation   |
+|:---------------------------:|:--------------:|
+| Ruby, Sapphire, & Emerald   | RSE            |
+| Fire Red & Leaf Green       | FRLG           |
+| Diamond, Pearl, & Platinum  | DPPt           |
+| Heart Gold & Soul Silver    | HGSS           |
+| Black & White               | BW             |
+| Black 2 & White 2           | B2W2           |
+| X & Y                       | XY             |
+| Omega Ruby & Alpha Sapphire | ΩRαS (or ORAS) |
 
 I'll trust you to pick apart which bits of the abbreviations refer to which names. Often this meant that when there are divergences between the two games within a generation (like I described in [my post about Bonsly, Lucario and Vaporeon in Generation 5]({% post_url 2017-10-13-BonslyLucarioAndVaporeonInGeneration5 %})), I would need to recognize the individual game's abbreviation in isolation.
 
@@ -34,13 +36,13 @@ Then along came Sun & Moon. Immediately there's a problem: does S mean Sun or Sa
 
 While unexpected, this was resolved easily enough. Sapphire came first - it has "claimed" the abbreviation S. I'll use "Su" for Sun and all will be well. As Sun is the latest game at the moment, any data is implicitly for Sun & Moon, unless it specifies otherwise (like if the site listed that you must import a Pokémon from Diamond & Pearl, then that data is associated with those games).
 
-However, Nintendo did something else unexpected. They re-released Red, Blue, & Yellow and Gold & Silver on the Virtual Console for the 3DS. And they *added* the capability to import from the digital versions of these classic games into Pokémon Bank, and from there into Sun & Moon.
+However, Nintendo did something else unexpected. They re-released Red, Blue, & Yellow and Gold & Silver on the Virtual Console for the 3DS. And, more importantly for me, they *added* the capability to import from the digital versions of these classic games into Pokémon Bank, and from there into Sun & Moon.
 
 ![](/assets/img/pokemon-red-blue-yellow.jpg){:height="200px"}
 ![](/assets/img/pokemon-gold-silver.jpg){:height="200px"}
 *New contenders for existing abbreviations*
 
-Like all other Pokémon games, Generations 1 and 2 provided some unique moves that could be learned by certain Pokémon. [Jolteon](https://www.serebii.net/pokedex-sm/135.shtml) only learns [Skull Bash](https://www.serebii.net/attackdex-sm/skullbash.shtml) through TM40 in Generation 1, for example. (And remember, like I [mentioned before]({% post_url 2017-10-20-HM05RockSmash %}), TMs were single use back in Generation 1, so you could only teach a *single* Pokémon Skull Bash via TM without restarting the game.)
+Like all other Pokémon games, Generations 1 and 2 provided some unique moves that could be learned by certain Pokémon. The only way to have a [Jolteon](https://www.serebii.net/pokedex-sm/135.shtml) with [Skull Bash](https://www.serebii.net/attackdex-sm/skullbash.shtml) in Sun & Moon is to first teach it through TM40 in Generation 1, for example. (And remember, like I [mentioned before]({% post_url 2017-10-20-HM05RockSmash %}), TMs were single use back in Generation 1, so you could only teach a *single* Pokémon Skull Bash via TM without restarting the game.)
 
 Suddenly there are *a lot* more games accessible in Sun & Moon than there were when I worked with Omega Ruby & Alpha Sapphire. And now, the abbreviation problem became a bit more pronounced:
 

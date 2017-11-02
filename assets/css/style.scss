@@ -36,3 +36,8 @@ img + em {
 .markdown-body blockquote:before {
 	content: inherit;
 };
+
+.markdown-body td:first-child:nth-last-child(2),
+td:first-child:nth-last-child(2) ~ td {
+    width: 50%;
+}
