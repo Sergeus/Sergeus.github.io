@@ -11,8 +11,7 @@
   <script type="text/javascript" src="{{ '/assets/js/script.js' | relative_url }}"></script>
 {% feed_meta %}
 {% seo %}
-  <meta property="og:image" content="{{ page.image_meta | default: site.image_meta }}" />
-  <meta property="twitter:image" content="{{ page.image_meta | default: site.image_meta }}" />
+  <meta name="og:image" content="{{ page.image_meta | default: site.image_meta }}" />
   <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
