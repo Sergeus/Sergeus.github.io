@@ -1,6 +1,7 @@
 ---
 title: Calculating a Pokémon's HP
 inline_title: true
+image_meta: /assets/img/hp-calculation-meta.png
 ---
 
 How much HP should this Pokémon have? That depends on a lot of factors. At some level, like all other stats, the Pokémon will have a Base HP. Different species ([Bulbasaur](https://www.serebii.net/pokedex-sm/001.shtml) vs [Arceus](https://www.serebii.net/pokedex-sm/493.shtml) vs [Umbreon](https://www.serebii.net/pokedex-sm/197.shtml), and all other 799 of them) have differing Base HPs. Pokémon gain HP as they level up, so a level 76 [Chansey](https://www.serebii.net/pokedex-sm/113.shtml) will have a lot more HP than a level 5 one.

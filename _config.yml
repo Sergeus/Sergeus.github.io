@@ -2,6 +2,7 @@ title: Pokémania Blog
 description: Understanding the Pokémon data set
 theme: jekyll-theme-time-machine
 show_github: false
+image_meta: /assets/img/meta-image-default.png
 
 google_analytics: UA-107752319-1
 
