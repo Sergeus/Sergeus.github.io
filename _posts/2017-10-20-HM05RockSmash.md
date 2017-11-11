@@ -1,6 +1,7 @@
 ---
 title: HM05 Rock Smash and TM94 Secret Power
 inline_title: true
+image_meta: /assets/img/rock-smash-meta.png
 ---
 
 When working to support the newly released Pokémon Sun & Moon <sup>(6 months after they came out)</sup> there were a lot of new concepts for me to wrestle with to represent the new mechanics [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) added in Generation 7. Things like [Alolan forms](https://bulbapedia.bulbagarden.net/wiki/Regional_variant) and [Z-Moves](https://bulbapedia.bulbagarden.net/wiki/Z-Move) were the visible, big ticket items, but I ran into an unexpected little problem with two TMHMs.

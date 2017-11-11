@@ -1,6 +1,7 @@
 ---
 title: Z-Move Base Power
 inline_title: true
+image_meta: /assets/img/z-move-meta.jpg
 ---
 
 [Z-moves](https://bulbapedia.bulbagarden.net/wiki/Z-Move) are one of the new headline features in Generation 7 (Sun & Moon). There are quite a few unique things about them compared to... pretty much every other move that's come before. They can be used, only once per battle, to transform one of your Pokémon's existing moves into a more powerful Z-Move, using the Z-Move instead of the original move. They're unlocked by a special item called a [Z-Crystal](https://www.serebii.net/itemdex/list/zcrystal.shtml) that the Pokémon must be holding, with one Z-Crystal available per type. <sup>(And a few that are only for specific Pokémon like [Pikashunium Z](https://www.serebii.net/itemdex/pikashuniumz.shtml) for Pikachu.)</sup> They have hugely different effects based on which normal move you turn into a Z-Move.

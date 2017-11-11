@@ -1,6 +1,7 @@
 ---
 title: Game Abbreviations
 inline_title: true
+image_meta: /assets/img/game-abbreviations-meta.png
 ---
 
 Such a simple problem. "Which Pokémon game is this?" You would think that looking at the data for where a Pokémon learned a move, it would be obvious *which game* that move was learned in. Unfortunately, you would be wrong.
