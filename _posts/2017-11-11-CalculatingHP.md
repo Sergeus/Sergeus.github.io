@@ -25,6 +25,6 @@ Shedinja is the only Pokémon that doesn't follow the formula for **any** of the
 
 The fixed HP stat does add a lot to Shedinja's overall design. Shedinja's [Wonder Guard](https://www.serebii.net/abilitydex/wonderguard.shtml) ability makes the Bug/Ghost Pokémon immune to all damage that isn't super effective. So the idea is that Shedinja can't be beaten *unless* you have a super effective move available, in which case Shedinja is beaten immediately. (Because Shedinja is Bug/Ghost, the attack needs to be either Fire, Flying, Rock, Ghost, or Dark.)
 
-Given that Shedinja was added in Generation 3 (a whole 14+ years ago), I'm surprised this kind of ability and fixed stat mechanic haven't resurfaced since then.
+Given that Shedinja was added in Generation 3 (a whole 14+ years ago), I'm surprised this kind of ability and fixed stat mechanic hasn't resurfaced since then.
 
 And that's today's edge case, the *only* Pokémon that doesn't listen to the HP formula.
