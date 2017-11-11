@@ -21,7 +21,7 @@ So that tells you how to calculate a given Pokémon's HP exactly. Or your Pokém
 
 Shedinja is the only Pokémon that doesn't follow the formula for **any** of their stats. 802 Pokémon and Game Freak have elected to do this *once*. Which means [PokémonCompDB](/pokemoncompdb.html) needs to support the general case of fixed stats (or at least fixed HP).
 
-![](/assets/img/shedinja.png){:height="200px"}
+![](/assets/img/shedinja.png){:style="max-height: 200px"}
 *Look at it. **Look at it!***
 
 The fixed HP stat does add a lot to Shedinja's overall design. Shedinja's [Wonder Guard](https://www.serebii.net/abilitydex/wonderguard.shtml) ability makes the Bug/Ghost Pokémon immune to all damage that isn't super effective. So the idea is that Shedinja can't be beaten *unless* you have a super effective move available, in which case Shedinja is beaten immediately. (Because Shedinja is Bug/Ghost, the attack needs to be either Fire, Flying, Rock, Ghost, or Dark.)

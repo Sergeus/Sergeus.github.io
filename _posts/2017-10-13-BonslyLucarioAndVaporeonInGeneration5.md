@@ -28,7 +28,7 @@ Out of 494 Pokémon available in Generation 5, there are three exceptions to tha
 
 Bonsly                                       | Lucario                                       | Vaporeon
 :-------------------------------------------:|:---------------------------------------------:|:----------------------------------------------:
-![](/assets/img/bonsly.png){:height="200px"} | ![](/assets/img/lucario.png){:height="200px"} | ![](/assets/img/vaporeon.png){:height="200px"}
+![](/assets/img/bonsly.png){:style="max-height: 200px"} | ![](/assets/img/lucario.png){:style="max-height: 200px"} | ![](/assets/img/vaporeon.png){:style="max-height: 200px"}
 
 These three Pokémon learn moves in Generation 5 that they can't learn in Generation 6. But they *also* don't learn those moves the same way in Black & White as they do in Black 2 & White 2 (all 4 of which are in Generation 5).
 
@@ -45,7 +45,7 @@ This was the first Pokémon I ran into that had this kind of difference. I then 
 
 One reason might be that Bonsly wasn't easily available in Black & White: you had to use the [Dream World](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Dream_World) (on the Pokémon website on PC) or transfer it over from an even *older* game (Generation 4 and before). In Black 2 & White 2 you can find Bonsly in the game, but only through the relatively circuitous method of capturing a [Sudowoodo](https://www.serebii.net/pokedex-bw/185.shtml) from a [Swarm](https://www.serebii.net/black2white2/swarms.shtml) (which is only available after you beat the Elite Four and finish the main story) and breed it while it's holding a Rock Incense.
 
-![](/assets/img/sudowoodo.png){:height="200px"}
+![](/assets/img/sudowoodo.png){:style="max-height: 200px"}
 *Sudowoodo, who Bonsly evolves into*
 
 By that stage of the game, the player seems unlikely to need assistance training a Bonsly. They've finished the game already and have proven they understand the more labyrinthine breeding mechanics.
@@ -59,7 +59,7 @@ Lucario does not learn [Force Palm](https://www.serebii.net/attackdex-bw/forcepa
 
 Similar to Bonsly, the level at which Lucario learns Force Palm changes between Black & White and Black 2 & White 2. But Lucario (and its pre-evolved form Riolu) haven't had their whole level up learnset changed. In Black & White they learn Force Palm at level 11 and [Feint](https://www.serebii.net/attackdex-bw/feint.shtml) at level 15. In Black 2 & White 2 they learn those moves the other way around.
 
-![](/assets/img/riolu.png){:height="200px"}
+![](/assets/img/riolu.png){:style="max-height: 200px"}
 *Riolu, who evolves into Lucario*
 
 Like Bonsly, for the two moves that have changed, Lucario and Riolu learn them at the same levels back in Generation 4. But unlike Bonsly, Lucario and Riolu's learnsets *were otherwise changed* moving from Generation 4 to Black & White.
@@ -81,7 +81,7 @@ Why might Game Freak have changed this? Bite was Vaporeon's only Dark type move 
 
 The [Water Stone](https://www.serebii.net/itemdex/waterstone.shtml) (which causes Eevee to evolve into Vaporeon) and Eevee itself are available much earlier in Black 2 & White 2 than in Black & White, so it may be a balancing change due to that. Like Bonsly and Lucario, Eevee (and therefore Vaporeon) wasn't available in Black & White without being transferred from an older game or the Dream World.
 
-![](/assets/img/eevee.png){:height="200px"}
+![](/assets/img/eevee.png){:style="max-height: 200px"}
 *Eevee, the Pokémon that evolves into Vaporeon (and 7 other eons)*
 
 But then, even though Vaporeon no longer learned Bite in Black 2 & White 2, Eevee *does*. At level 29. So if you really want Bite on Vaporeon in Black 2 & White 2, you can just level up Eevee to 29 and *then* evolve. Maybe that's it - a very subtle way of getting players to play with Eevee for a bit longer, instead of immediately evolving it into Vaporeon. I'm sure the other 5 folks in the world besides me who noticed this took their time!

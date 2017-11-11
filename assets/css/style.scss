@@ -3,41 +3,83 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+	max-width: 675px;
+}
+
+@media screen and (max-width:693px) {
+	.wrapper {
+		max-width: 95%;
+	}
+	#main {
+		padding: 0 3% 15%;
+	}
+	.markdown-body table {
+		max-width: 106%;
+		margin-left: -3%;
+		margin-right: -3%;
+	}
+	.current-section {
+		max-width: 100%;
+		margin-left: 0px;
+		left: 0%;
+	}
+	.download-bar {
+		margin: 0 -6% 5%;
+	}
+	.markdown-body td:first-child, .markdown-body th:first-child
+	{
+		padding-left: 3%;
+	}
+}
+
 .download-bar > .inner {
 	color: white;
 };
 .title > a {
 	color: inherit;
-};
+}
 
 img {
 	display: block;
 	margin: auto;
-};
+}
 
 img + em {
 	display: block;
 	text-align: center;
 	font-size: small;
 	color: grey;
-};
+}
 
-.title-bar {
-	width: 50%;
+.title-bar:first-child {
+	width: 75%;
 	float: left;
 	vertical-align: text-center;
-};
+}
+
+.title-bar {
+	width: 25%;
+	float: left;
+	vertical-align: text-center;
+}
 
 .rss-icon {
 	height: 1.5em;
 	float: right;
-};
+}
 
 .markdown-body blockquote:before {
 	content: inherit;
-};
+}
 
 .markdown-body td:first-child:nth-last-child(2),
 td:first-child:nth-last-child(2) ~ td {
     width: 50%;
+}
+
+.markdown-body td:first-child:nth-last-child(3),
+td:first-child:nth-last-child(3) ~ td {
+    width: 33%;
+	max-width: 33vw;
 }

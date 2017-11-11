@@ -39,8 +39,8 @@ While unexpected, this was resolved easily enough. Sapphire came first - it has 
 
 However, Nintendo did something else unexpected. They re-released Red, Blue, & Yellow and Gold & Silver on the Virtual Console for the 3DS. And, more importantly for me, they *added* the capability to import from the digital versions of these classic games into Pokémon Bank, and from there into Sun & Moon.
 
-![](/assets/img/pokemon-red-blue-yellow.jpg){:height="200px"}
-![](/assets/img/pokemon-gold-silver.jpg){:height="200px"}
+![](/assets/img/pokemon-red-blue-yellow.jpg){:style="max-height: 200px"}
+![](/assets/img/pokemon-gold-silver.jpg){:style="max-height: 200px"}
 *New contenders for existing abbreviations*
 
 Like all other Pokémon games, Generations 1 and 2 provided some unique moves that could be learned by certain Pokémon. The only way to have a [Jolteon](https://www.serebii.net/pokedex-sm/135.shtml) with [Skull Bash](https://www.serebii.net/attackdex-sm/skullbash.shtml) in Sun & Moon is to first teach it through TM40 in Generation 1, for example. (And remember, like I [mentioned before]({% post_url 2017-10-20-HM05RockSmash %}), TMs were single use back in Generation 1, so you could only teach a *single* Pokémon Skull Bash via TM without restarting the game.)
@@ -56,7 +56,7 @@ For my own data, I can change the abbreviations used for each game. I can follow
 
 But what do I do with Yellow? Y doesn't have any more letters to use, despite being the newer game. In the end I had to assign Yellow the abbreviation "Ye", due to lack of other letters, despite the almost universal acceptance of the abbreviation "RBY" for Red, Blue, & Yellow in Generation 1.
 
-![](/assets/img/pokemon-xy.jpg){:height="300px"}
+![](/assets/img/pokemon-xy.jpg){:style="max-height: 300px"}
 *Clearly should have been Pokémon Xylophone & [Yunluo](https://en.wikipedia.org/wiki/Yunluo)*
 
 Not to mention, most Pokémon fan sites are designed with human viewers in mind, not automated parsers. There is a lot of information embedded in the context of how you have navigated to where you are. If a move is learned in "Gen I (Y)" that's "obviously" Yellow, not Y. In these cases, I needed the parser to guess at context - it's not enough to just look at the abbreviations used for the games, you also need to know where you're importing your data for. Y will tend to mean different things when used alongside "RB" or "Gen I". "B" means something different next to "R" than "W". "B" can't mean "Blue" if you're parsing data for Generation 6. And so on.
