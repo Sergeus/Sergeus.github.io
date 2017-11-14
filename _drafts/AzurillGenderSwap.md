@@ -19,7 +19,7 @@ But we're not here to talk about [Torchic](https://www.serebii.net/pokedex-sm/25
 ![](/assets/img/azurill.png){:style="max-height: 200px"}
 *Little Azurill, looking a bit distressed*
 
-Azurill was introduced in Generation 3 (Ruby & Sapphire). It was one of two new of baby Pokémon introduced in that generation as a pre-evolution to existing Pokémon (the other being [Wynaut](https://www.serebii.net/pokedex-sm/360.shtml)). Azurill was a new pre-evolved form of [Marill](https://www.serebii.net/pokedex-sm/183.shtml) (which itself was introduced in Generation 2, Gold & Silver).
+Azurill was introduced in Generation 3 (Ruby & Sapphire). It was one of two new baby Pokémon introduced in that generation as a pre-evolution to existing Pokémon (the other being [Wynaut](https://www.serebii.net/pokedex-sm/360.shtml)). Azurill was a new pre-evolved form of [Marill](https://www.serebii.net/pokedex-sm/183.shtml) (which itself was introduced in Generation 2, Gold & Silver).
 
 ![](/assets/img/marill.png){:style="max-height: 200px"}
 *Marill, looking very cute and less distressed*
@@ -33,6 +33,6 @@ Azurill has a 75% chance of being female and a 25% chance of being male. Interes
 
 This is because of the way that a Pokémon's gender is determined and stored in the games. Instead of storing the gender an individual Pokémon has with that Pokémon, its gender is instead based off of its [personality value]() (link needed). That personality value is then used to look up its gender based on the ratio of its species. For the 25% of female Azurills that are between the 50 and 75 marks of their gender distribution, that lookup suddenly returns male when run against the 50/50 distribution for Marill.
 
-Unfortunately for Azurill's gender swapping history, Game Freak changed this behavior in Generation 6 (X & Y), so female Azurills now always evolve into female Marills. But it did remain that way for 3 generations (and approximately 10 years)!
+Unfortunately for Azurill's gender swapping history, Game Freak changed this behavior in Generation 6 (X & Y), so female Azurills now always evolve into female Marills. But it did remain that way for 3 generations (approximately 10 years)!
 
 This particular edge case isn't one that has tripped me up in [PokémonCompDB](/pokemoncompdb.html), because I don't (yet) generate databases for generations prior to Generation 6. But it's one that came up as interesting trivia while I was doing other research.
