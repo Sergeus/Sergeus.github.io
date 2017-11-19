@@ -12,7 +12,7 @@ Pokémon have genders. Three to be precise: Male, Female, and Genderless. Gender
 Can't see the difference above?
 
 ![](/assets/img/torchic-gender-difference-zoom.PNG)
-*That tiny dot. Yes, really. You may need to zoom.*
+*That tiny dot. Yes, really.*
 
 But we're not here to talk about [Torchic](https://www.serebii.net/pokedex-sm/255.shtml). We're here to talk about this girl/guy:
 
@@ -35,4 +35,4 @@ This is because of the way that a Pokémon's gender is determined and stored in 
 
 Unfortunately for Azurill's gender swapping history, Game Freak changed this behavior in Generation 6 (X & Y), so female Azurills now always evolve into female Marills. But it did remain that way for 3 generations (approximately 10 years)!
 
-This particular edge case isn't one that has tripped me up in [PokémonCompDB](/pokemoncompdb.html), because I don't (yet) generate databases for generations prior to Generation 6. But it's one that came up as interesting trivia while I was doing other research.
+This particular edge case isn't one that has tripped me up in [PokémonCompDB](/pokemoncompdb.html), because I don't (yet) generate databases for generations prior to Generation 6. Instead, it's one that came up as interesting trivia while I was doing other research.
