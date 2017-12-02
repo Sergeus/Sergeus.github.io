@@ -59,6 +59,9 @@ One of the Alolan Pokémon I called out above is Vulpix, who evolves into [Ninet
 
 I adjusted my database generation system accordingly to only look for Pokémon of the same form when searching for pre-evolution only moves. Alolan Ninetales would only consider Alolan Vulpix, Alolan [Sandslash](https://www.serebii.net/pokedex-sm/028.shtml) would only consider Alolan [Sandshrew](https://www.serebii.net/pokedex-sm/027.shtml), and so on.
 
+![](/assets/img/alolan-sandshrew.png){:style="max-height:200px;"}
+*Look at him! It's like he has a tiny little coat on!*
+
 Promptly, [Exeggutor](https://www.serebii.net/pokedex-sm/103.shtml), [Marowak](https://www.serebii.net/pokedex-sm/105.shtml), and [Raichu](https://www.serebii.net/pokedex-sm/026.shtml) were broken. Why? Because these three Pokémon's pre-evolutions ([Exeggcute](https://www.serebii.net/pokedex-sm/102.shtml), [Cubone](https://www.serebii.net/pokedex-sm/104.shtml), and [Pikachu](https://www.serebii.net/pokedex-sm/025.shtml) respectively) *don't have Alolan forms*. The non-Alolan variants of those Pokémon evolve into the Alolan variants all the time in Sun & Moon. Non-Alolan Exeggutor, Marowak, and Raichu are actually inaccessible in Generation 7, the only way to have them is to import them from a previous game.
 
 | Alolan Exeggutor | Alolan Marowak | Alolan Raichu |
