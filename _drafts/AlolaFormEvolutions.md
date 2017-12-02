@@ -1,6 +1,7 @@
 ---
 title: Alolan Form Evolutions
 inline_title: true
+image_meta: /assets/img/alola-evos-meta.jpg
 ---
 
 Alolan forms are one of the headline features of Generation 7 (Sun & Moon). They're new variants of existing Pokémon that take a fresh look at those Pokémon designs. In the fiction of the games, the Alolan forms of existing Pokémon are caused by them migrating to Alola (the region in which Sun & Moon are set) from other regions, and their physiology changing in adaptation to the new environment there. In practice, Game Freak have created a bunch of new twists on existing Generation 1 (Red & Blue) Pokémon - many of them classics that longtime players will remember.
@@ -62,7 +63,7 @@ I adjusted my database generation system accordingly to only look for Pokémon o
 ![](/assets/img/alolan-sandshrew.png){:style="max-height:200px;"}
 *Look at him! It's like he has a tiny little coat on!*
 
-Promptly, [Exeggutor](https://www.serebii.net/pokedex-sm/103.shtml), [Marowak](https://www.serebii.net/pokedex-sm/105.shtml), and [Raichu](https://www.serebii.net/pokedex-sm/026.shtml) were broken. Why? Because these three Pokémon's pre-evolutions ([Exeggcute](https://www.serebii.net/pokedex-sm/102.shtml), [Cubone](https://www.serebii.net/pokedex-sm/104.shtml), and [Pikachu](https://www.serebii.net/pokedex-sm/025.shtml) respectively) *don't have Alolan forms*. The non-Alolan variants of those Pokémon evolve into the Alolan variants all the time in Sun & Moon. Non-Alolan Exeggutor, Marowak, and Raichu are actually inaccessible in Generation 7, the only way to have them is to import them from a previous game.
+Promptly, [Exeggutor](https://www.serebii.net/pokedex-sm/103.shtml) (whose Alolan form is hilarious), [Marowak](https://www.serebii.net/pokedex-sm/105.shtml), and [Raichu](https://www.serebii.net/pokedex-sm/026.shtml) were broken. Why? Because these three Pokémon's pre-evolutions ([Exeggcute](https://www.serebii.net/pokedex-sm/102.shtml), [Cubone](https://www.serebii.net/pokedex-sm/104.shtml), and [Pikachu](https://www.serebii.net/pokedex-sm/025.shtml) respectively) *don't have Alolan forms*. The non-Alolan variants of those Pokémon evolve into the Alolan variants all the time in Sun & Moon. Non-Alolan Exeggutor, Marowak, and Raichu are actually inaccessible in Generation 7, the only way to have them is to import them from a previous game.
 
 | Alolan Exeggutor | Alolan Marowak | Alolan Raichu |
 :----------:|:-------:|:---------:
