@@ -1,6 +1,7 @@
 ---
 title: Rotom Forms
 inline_title: true
+image_meta: /assets/img/rotom-forms-image-meta.jpg
 ---
 
 [Rotom](https://www.serebii.net/pokedex-sm/479.shtml) is a tiny little Electric/Ghost Pokémon that is pretty adorable. It also acts as an infuriating sidekick in Generation 7 (Sun, Moon, Ultra Sun, & Ultra Moon). Rotom changes form between several different types and drastically different stats by possessing household appliances. (Yes, this is actually what it does.) There are a lot of Pokémon that change form (some of which I've talked about before), but Rotom was the first Pokémon I encountered that had certain moves only available in certain forms, but could also switch between forms at will.
