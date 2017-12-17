@@ -13,7 +13,7 @@ Pikachu was also recently [appointed as an ambassador of the real life city of O
 
 The first thing we want to look at is normal Pikachu. What does normal Pikachu look like?
 
-![](/assets/img/pikachu.PNG){:style="max-height:200px;"}
+![](/assets/img/pikachu.png){:style="max-height:200px;"}
 *Adorable and infinitely recognizable*
 
 Pikachu, like other Pokémon [I've discussed before]({% post_url 2017-11-19-AzurillGenderSwap %}), was given a pre-evolution in [Pichu](https://www.serebii.net/pokedex-sm/172.shtml) in Generation 2 (Gold & Silver). Also as [I've discussed before]({% post_url 2017-12-3-AlolaFormEvolutions %}), Pikachu evolves via an evolutionary stone (the [Thunder Stone](https://www.serebii.net/itemdex/thunderstone.shtml)) into [Raichu](https://www.serebii.net/pokedex-sm/026.shtml). So like [Arcanine](https://www.serebii.net/pokedex-sm/059.shtml), described in my previous post, Pikachu learns most of the level up moves and Raichu does not (to discourage players from evolving Pikachu immediately). Raichu also has an Alolan variant form, when it evolves from Pikachu in the Generation 7 games (Sun, Moon, Ultra Sun, & Ultra Moon). This caused its own set of problems for me in how Alolan form evolutions are handled.
