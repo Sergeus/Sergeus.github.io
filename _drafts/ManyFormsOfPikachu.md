@@ -1,6 +1,7 @@
 ---
 title: The Many Forms of Pikachu
 inline_title: true
+image_meta: /assets/img/pikachu-forms-image-meta.jpg
 ---
 
 [Pikachu](https://www.serebii.net/pokedex-sm/025.shtml), the electric rodent Pokémon and one of the best known mascots of any series in the world, has been represented in the main series Pokémon games since the very beginning. There have also been many different iterations of the adorable little guy, to celebrate a variety of Pokémon-related occasions. Last week [I talked about forms]({% post_url 2017-12-9-RotomForms %}) and [Rotom](https://www.serebii.net/pokedex-sm/479.shtml), and today, I'm going to talk about the variant forms of Pikachu that have had the most impact on [PokémonCompDB](/pokemoncompdb.html) and how they create their own unique spins on the normal Pokémon.
