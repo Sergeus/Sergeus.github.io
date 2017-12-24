@@ -14,7 +14,7 @@ So, who's this Pokémon I'm talking about? This is Meowstic:
 Longtime Pokémon players will remember Nidoran from Generation 1 (Red & Blue). More specifically, [Nidoran♂](https://www.serebii.net/pokedex-sm/032.shtml) and [Nidoran♀](https://www.serebii.net/pokedex-sm/029.shtml). Nidoran♂ evolves into [Nidorino](https://www.serebii.net/pokedex-sm/033.shtml) and then [Nidoking](https://www.serebii.net/pokedex-sm/034.shtml). Nidoran♀ evolves into [Nidorina](https://www.serebii.net/pokedex-sm/030.shtml) and then [Nidoqueen](https://www.serebii.net/pokedex-sm/031.shtml). Back in Generation 1, Pokémon didn't have genders, that was introduced in Generation 2 (Gold & Solver). The design of Nidoran as a Pokémon essentially imitates animal gender dimorphism, in that the males and females mature differently to one another.
 
 ![](/assets/img/nidorans.png){:style="max-height:200px;"}
-*Apparently just to confuse people, the **shiny** versions of each are the opposite colors - shiny female Nidoran is purple and shiny male nidoran is pale blue*
+*Female on the left, male on the right. Apparently just to confuse people, the **shiny** versions of Nidoran are the opposite colors - shiny female Nidoran is purple and shiny male nidoran is pale blue*
 
 With the lack of genders in Generation 1 to facilitate that, Game Freak made Nidoran♀ and Nidoran♂ separate *species* (which means they have different uniquely identifying Pokédex numbers) so that they could have separate stats. Even though genders were added later, the Pokédex number of a Pokémon has never changed in the series, and it seems Game Freak want to retain that. Nidoran has remained split into two species in all of the games since.
 
