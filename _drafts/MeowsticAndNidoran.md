@@ -1,6 +1,7 @@
 ---
 title: Meowstic, the True Nidoran
 inline_title: true
+image_meta: /assets/img/meowstic-image-meta.jpg
 ---
 
 This week, I'm celebrating Christmas by talking about [Meowstic](https://www.serebii.net/pokedex-sm/678.shtml). Exciting, I know! Meowstic is a Pokémon that is significantly different depending on if it's male or female. I've talked about [gender dimorphism in Pokémon]({% post_url 2017-11-19-AzurillGenderSwap %}) before and some of the other fun edge cases I've discovered to do with it. Mostly, Pokémon gender differences (when they exist) are cosmetic, but in Meowstic the differences affect several things: appearance, stats, abilities, and move sets. Each gender of Meowstic is basically a different form (and I've discussed [form differences]({% post_url 2017-12-3-AlolaFormEvolutions %}) a bit before as well). This isn't the first time something like this has happened in Pokémon, but Meowstic is different from its predecessor, Nidoran, in a few ways that caused me additional headaches.
