@@ -1,6 +1,7 @@
 ---
 title: Mega-Evolution Exceptions
 inline_title: true
+image_meta: /assets/img/mega-evolution-exception-meta.png
 ---
 
 Mega evolutions were added to Pokémon in Generation 6 (X & Y). They're effectively temporary form changes that activate in the middle of a battle. When a Pokémon is holding the correct mega stone (for example, [Abomasnow](https://www.serebii.net/pokedex-sm/460.shtml) holding an [Abomasite](https://www.serebii.net/itemdex/abomasite.shtml)), the player can elect to transform them into their mega form on their turn. The transformation happens at the beginning of that turn, before any Pokémon in the battle have moved. Mega-evolutions usually drastically increase the stats of the Pokémon and often change its types and ability as well.
