@@ -3,11 +3,12 @@ title: Mega-Evolution Exceptions
 inline_title: true
 ---
 
-Mega evolutions were added to Pokémon in Generation 6 (X & Y). They're effectively temporary form changes that activate in the middle of a battle. When a Pokémon is holding the correct mega stone (for example, Abomasnow holding an Abomasite), the player can elect to transform them into their mega form on their turn. The transformation happens at the beginning of that turn, before any Pokémon in the battle have moved. Mega-evolutions usually drastically increase the stats of the Pokémon and often change its types and ability as well.
+Mega evolutions were added to Pokémon in Generation 6 (X & Y). They're effectively temporary form changes that activate in the middle of a battle. When a Pokémon is holding the correct mega stone (for example, [Abomasnow](https://www.serebii.net/pokedex-sm/460.shtml) holding an [Abomasite](https://www.serebii.net/itemdex/abomasite.shtml)), the player can elect to transform them into their mega form on their turn. The transformation happens at the beginning of that turn, before any Pokémon in the battle have moved. Mega-evolutions usually drastically increase the stats of the Pokémon and often change its types and ability as well.
 
-// image
+![](/assets/img/abomasnow-and-mega.png){:style="max-height:250px;"}
+*They tend to get more elaborate when they mega evolve*
 
-When I first put mega evolutions into [PokémonCompDB](/pokemoncompdb.html), I made them their own feature. Mega evolutions were recognized by the application and when the user gave a given Pokémon set the correct mega stone, the type and visual information updated to show the mega form. I realized some time later that mega evolutions are actually just a variant of form changes, which I've talked about quite a bit before.
+When I first put mega evolutions into [PokémonCompDB](/pokemoncompdb.html), I made them their own feature. Mega evolutions were recognized by the application and when the user gave a given Pokémon set the correct mega stone, the type and visual information updated to show the mega form. I realized some time later that mega evolutions are actually just a variant of [form changes]({% post_url 2017-12-9-RotomForms %}), which I've talked about quite a bit before.
 
 The things that caught me out about mega evolutions were, inevitably, *almost* all of them work the same way. You give a [Blastoise](https://www.serebii.net/pokedex-sm/009.shtml) a [Blastoisinite](https://www.serebii.net/itemdex/blastoisinite.shtml) and it can turn into Mega Blastoise during battle. But there are a couple of legendary exceptions that have mega evolutions that act a bit different:
 
@@ -15,7 +16,7 @@ The things that caught me out about mega evolutions were, inevitably, *almost* a
 |:--------:|:-------:|:------:|
 | ![](/assets/img/rayquaza.png){:style="max-height:200px;"} | ![](/assets/img/groudon.png){:style="max-height:200px;"} | ![](/assets/img/kyogre.png){:style="max-height:200px;"} |
 
-Unlike all other mega evolutions, Rayquaza can mega evolve as long as it knows the move Dragon Ascent (which only it can learn). This means that PokémonCompDB now needed to be aware that changes to the moves known by a given set may cause mega evolutions to become available (and likewise removing a move may remove the availability of a mega evolution).
+Unlike all other mega evolutions, [Rayquaza](https://www.serebii.net/pokedex-sm/384.shtml) can mega evolve as long as it knows the move Dragon Ascent (which only it can learn). This means that PokémonCompDB now needed to be aware that changes to the moves known by a given set may cause mega evolutions to become available (and likewise removing a move may remove the availability of a mega evolution).
 
 ![](/assets/img/rayquaza-mega.png){:style="max-height:200px;"}
 *At one point in Omega Ruby and Alpha Sapphire, you ride Mega Rayquaza into space to fight Deoxys and it is **awesome***
