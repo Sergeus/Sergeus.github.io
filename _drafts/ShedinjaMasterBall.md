@@ -1,6 +1,7 @@
 ---
 title: Shedinja in a Master Ball
 inline_title: true
+image_meta: /assets/img/master-ball.png
 ---
 
 Oh, [Shedinja](https://www.serebii.net/pokedex-sm/292.shtml). Shedinja is the Pokémon made of exceptions and weird edge cases. [I've talked about Shedinja before]({% post_url 2017-11-11-CalculatingHP %}), about how its fixed HP stat of 1 has caused me some problems. Now I'm coming back to Shedinja to talk about how you might go about catching Shedinja with a [Master Ball](https://www.serebii.net/itemdex/masterball.shtml).
