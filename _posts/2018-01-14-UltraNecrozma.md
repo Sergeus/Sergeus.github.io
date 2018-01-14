@@ -26,6 +26,7 @@ Similar to Kyurem, Necrozma learns the signature move of the Pokémon it's fusin
 Ultra Necrozma is where things start to go sideways. Dusk Mane or Dawn Wings Necrozma can transform into Ultra Necrozma during battle if they're holding [Ultranecrozium Z](https://www.serebii.net/itemdex/ultranecroziumz.shtml) (which has a mouthful of a name, even after dropping a few syllables from its constituent words).
 
 ![](/assets/img/necrozma-forms.png){:style="max-height:400px;"}
+*A nice, simple chart*
 
 Pokémon that change form mid battle due to holding an item are not new. In fact, they've been around for a while and I've dealt with them before. All mega evolutions are like this. [Giratina](https://www.serebii.net/pokedex-sm/487.shtml) and the [Griseous Orb](https://www.serebii.net/itemdex/griseousorb.shtml) is like this. And so is [Arceus](https://www.serebii.net/pokedex-sm/493.shtml) and the various plates (and now non-specific Z crystals as well).
 
