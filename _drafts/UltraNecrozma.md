@@ -1,6 +1,7 @@
 ---
 title: Ultra Necrozma, Form Exceptions Galore
 inline_title: true
+image_meta: /assets/img/ultra-necrozma-image-meta.jpg
 ---
 
 Ultra [Necrozma](https://www.serebii.net/pokedex-sm/800.shtml) is an alternate form of Necrozma that was introduced in Ultra Sun & Ultra Moon. It plays a major part in the story of those games and is generally extremely powerful. And it spits on my definitions of form transitions in ways I hadn't thought about.
