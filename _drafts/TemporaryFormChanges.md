@@ -1,6 +1,7 @@
 ---
 title: Consistency in Temporary Form Changes
 inline_title: true
+image_meta: /assets/img/temporary-form-changes-image-meta.png
 ---
 
 I've talked about temporary form changes before [when I was talking about Rotom](({% post_url 2017-12-9-RotomForms %})). They're when a Pokémon changes form for a bounded amount of time, often just for the duration of a battle. Today I'm going to be talking about how [PokémonCompDB](/pokemoncompdb.html) represents all of these temporary form changes and some inconsistencies about how to effectively represent them that still plague me to this day.
