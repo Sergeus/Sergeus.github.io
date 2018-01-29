@@ -1,6 +1,7 @@
 ---
 title: Hoppip and Pay Day
 inline_title: true
+image_meta: /assets/img/hoppip-payday-image-meta.jpg
 ---
 
 [Hoppip](https://www.serebii.net/pokedex-sm/187.shtml) is a Grass and Flying Pokémon introduced in Generation 2 (Gold & Silver). It's an adorable little fluff ball that evolves into two other similar fluff balls ([Skiploom](https://www.serebii.net/pokedex-sm/188.shtml) and [Jumpluff](https://www.serebii.net/pokedex-sm/189.shtml)), and back in Generation 2, it could learn [Pay Day](https://www.serebii.net/attackdex-sm/payday.shtml). This is Hoppip:
