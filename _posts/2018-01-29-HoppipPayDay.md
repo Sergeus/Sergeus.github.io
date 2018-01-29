@@ -20,7 +20,7 @@ So, Hoppip and Pay Day. Pay Day is the signature move of [Meowth](https://www.se
 
 As I've discussed before, some Pokémon learn moves exclusively as egg moves, meaning one of their parents needs to know the move when the Pokémon is bred and then the new baby Pokémon will know the move straight away. Each species of Pokémon can only learn certain moves this way. Throughout all of the main series Pokémon games, if you breed two Pokémon together, the child will be of the same species as the mother (except [Ditto](https://www.serebii.net/pokedex-sm/132.shtml), which follows its own rules). So if you breed a female [Bulbasaur](https://www.serebii.net/pokedex-sm/001.shtml) with a male [Snorlax](https://www.serebii.net/pokedex-sm/143.shtml), you'll get a baby Bulbasaur.
 
-As an additional complexity, back in Generations 1 and 2, Egg Moves could only be passed down by the father. So you needed a female of the species you wanted and a male that knew the move you wanted the new Pokémon to learn. Pokémon are divided up into 15 egg groups. Each species belongs to one or two egg groups, and any two Pokémon that share an egg group can breed.
+As an additional complexity, back in Generations 1 and 2, egg moves could only be passed down by the father. So you needed a female of the species you wanted and a male that knew the move you wanted the new Pokémon to learn. Pokémon are divided up into 15 egg groups. Each species belongs to one or two egg groups, and any two Pokémon that share an egg group can breed.
 
 ![](/assets/img/brock-venn-diagram.PNG){:style="max-height:250px;"}
 *The true meaning of Pokémon*
