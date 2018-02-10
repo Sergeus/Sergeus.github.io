@@ -1,6 +1,7 @@
 ---
 title: Teaching Munchlax Self-destruct
 inline_title: true
+image_meta: /assets/img/munchlax-self-destruct-image-meta.png
 ---
 
 This is it, folks. This is the Pokémon peculiarity that inspired this blog in the first place. Today, I'm going to talk about how you can obtain a [Munchlax](https://www.serebii.net/pokedex-sm/446.shtml) that knows [Self-destruct](https://www.serebii.net/attackdex-sm/self-destruct.shtml) and how this particular move tripped up [PokémonCompDB](/pokemoncompdb.html) when I first encountered it. [Two weeks ago]({% post_url 2018-01-29-HoppipPayDay %}) I mentioned that some of the edge cases I've discovered mean things are particularly difficult for the player to do and others are challenging for PokémonCompDB from a data perspective. This one was both.
