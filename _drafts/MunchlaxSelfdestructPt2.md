@@ -3,7 +3,7 @@ title: Teaching Munchlax Self-destruct Part 2
 inline_title: true
 ---
 
-This is the second part of my discussion of Munchlax and Self-destruct. You'll want to read last week's blog before this one, where I talk about *how* Munchlax learns Self-destruct and why this particular edge case was one of the main inspirations for starting this blog in the first place.
+This is the second part of my discussion of [Munchlax](https://www.serebii.net/pokedex-sm/446.shtml) and [Self-destruct](https://www.serebii.net/attackdex-sm/self-destruct.shtml). You'll want to read [last week's blog post]({% post_url 2018-02-11-MunchlaxSelfdestruct %}) before this one. There I talk about *how* Munchlax learns Self-destruct and why this particular edge case was one of the main inspirations for starting this blog in the first place.
 
 I've mentioned before that some of the edge cases I find are things that are difficult or unusual to represent from a data structure point of view and others are simple data wise, but really complicated for players to actually do. As a demonstration of the lengths one can have to go to for the "complicated for players" angle, this week I'll be taking you through the process of actually breeding a Munchlax that knows Self-destruct in Ultra Moon.
 
@@ -48,15 +48,15 @@ And finally, I need a 3DS (or a 2DS in my case) to do the Generation 4 to Genera
 ![](/assets/img/munchlax-3ds.jpg){:style="max-height:250px;"}
 *On theme and everything*
 
-That's all the hardware we need to take a Snorlax on a journey from 2005 to 2017!
+That's all the hardware we need to take a [Snorlax](https://www.serebii.net/pokedex-sm/143.shtml) on a journey from 2005 to 2017!
 
 # Finding a Snorlax
 
-Next, I need a Snorlax. Since Munchlax wasn't introduced until Generation 4, it obviously doesn't exist in Generation 3. Munchlax learns Self-destruct as an egg move and a Snorlax holding a Full Incense can be bred into Munchlax in the later games. So it's Snorlax that we need in Generation 3. We can teach it Self-destruct and then begin the import journey.
+Next, I need a Snorlax. Since Munchlax wasn't introduced until Generation 4, it obviously doesn't exist in Generation 3. Munchlax learns Self-destruct as an egg move and a Snorlax holding a [Full Incense](https://www.serebii.net/itemdex/fullincense.shtml) can be bred into Munchlax in the later games. So it's Snorlax that we need in Generation 3. We can teach it Self-destruct and then begin the import journey.
 
 Here is the first place that things got dicey. In Generation 3, Snorlax isn't like most wild Pokémon. There's no location in the game where you can repeatably find wild Snorlax roaming around in tall grass. In fact, Snorlax isn't catchable at all in Ruby, Sapphire, or Emerald. Snorlax *can* be caught in Fire Red & Leaf Green, but there are only two in each game and once you've caught or defeated both of them, that's it.
 
-There is also one Snorlax in Pokémon XD: Gale of Darkness itself. The way Gale of Darkness works, there are no wild Pokémon. Instead, some opposing trainers use "Shadow Pokémon" which have been corrupted and turned evil. The player character has a device that allows them to catch Shadow Pokémon used by other trainers and then later purify them into normal Pokémon.
+There is also one Snorlax in Pokémon XD: Gale of Darkness itself. The way Gale of Darkness works, there are no wild Pokémon. Instead, some opposing trainers use [Shadow Pokémon](https://bulbapedia.bulbagarden.net/wiki/Shadow_Pok%C3%A9mon) which have been corrupted and turned evil. The player character has a device that allows them to catch Shadow Pokémon used by other trainers and then later purify them into normal Pokémon.
 
 ![](/assets/img/shadow-lugia.png){:style="max-height:250px;"}
 *Shadow Lugia, posing for the box art*
@@ -65,7 +65,7 @@ Between all of the above, that means there are five Snorlax available in total i
 
 The import process is one way, always going forward, never back to the older games. So I've potentially imported all five possible Snorlax from Generation 3 into my newer games, where they're inaccessible to Gale of Darkness. If so, I need to restart either Fire Red, Leaf Green, or Gale of Darkness. Snorlax in Fire Red or Leaf Green is available relatively early, but I'd need to delete my original save and overwrite it with a new one to do that. Being the sentimental person I am, I'd prefer not to do that. (I considered playing through the game up to the point where you could catch Snorlax without saving to circumvent this, but unfortunately you need to save in order to trade.)
 
-The other alternative would be to restart Pokémon XD: Gale of Darkness. Being a GameCube game, it saves to memory cards, so I can just start a new game on a new memory card. But you can only trade with the other Generation 3 games from Gale of Darkness *after* finishing the game. (Not to mention the one Snorlax in Gale of Darkness is on Citadark Isle, the final level, anyway.)
+The other alternative would be to restart Pokémon XD: Gale of Darkness. Being a GameCube game, it saves to memory cards, so I can just start a new game on a new memory card. But you can only trade with the other Generation 3 games from Gale of Darkness *after* finishing the game. (Not to mention the one Snorlax in Gale of Darkness is on [Citadark Isle](https://www.serebii.net/pokearth/orre/citadarkisle.shtml), the final level, anyway.)
 
 Cue frantic search:
 
@@ -93,7 +93,7 @@ Cue frantic search:
 ![](/assets/img/munchlax-leaf-green-snorlax-found.jpg){:style="max-height:250px;"}
 *Victory!*
 
-Through some prescient series of decisions over a decade ago, in my copy of Leaf Green I never disturbed the Snorlax blocking the way to the Bike Path west of Celadon City. Despite training my team up to the high 80s in Leaf Green, apparently I didn't feel the need to fight the Bikers and their Koffing.
+Through some prescient series of decisions over a decade ago, in my copy of Leaf Green I never disturbed the Snorlax blocking the way to the Bike Path west of [Celadon City](https://www.serebii.net/pokearth/kanto/celadoncity.shtml). Despite training my team up to the high 80s in Leaf Green, apparently I didn't feel the need to fight the Bikers and their [Koffing](https://www.serebii.net/pokedex-sm/109.shtml).
 
 Phew! We have a Snorlax!
 
@@ -111,12 +111,12 @@ Snorlax is thankfully not very high level. It's only level 30. I'll assemble a c
 ![](/assets/img/munchlax-leaf-green-party.jpg){:style="max-height:250px;"}
 *Yes, that's a level 3 Pidgey.*
 
-And we're in luck! That Bellsprout, at level 31 and one of my strongest Pokémon left (what am I even doing), knows Stun Spore! Paralysis will make Snorlax easier to catch and help me out in the battle. But there's a relatively predictable issue with that:
+And we're in luck! That [Bellsprout](https://www.serebii.net/pokedex-sm/069.shtml), at level 31 and one of my strongest Pokémon left (what am I even doing), knows [Stun Spore](https://www.serebii.net/attackdex-sm/stunspore.shtml)! Paralysis will make Snorlax easier to catch and help me out in the battle. But there's a relatively predictable issue with that:
 
 ![](/assets/img/munchlax-leaf-green-chesto-berry.jpg){:style="max-height:250px;"}
-*Of course Snorlax knows Rest*
+*Of course Snorlax knows [Rest](https://www.serebii.net/attackdex-sm/rest.shtml)*
 
-Rest restores all of a Pokémon's HP and puts it to sleep. The sleep status replaces any existing status, including paralysis. And then the Pokémon wakes up 2 or 3 turns later (depending on how much HP it regained), so the sleep status is gone as well. And to top it all off, the wild Snorlax in Leaf Green is holding a Chesto Berry! So it eats that berry the first time it falls asleep and immediately wakes back up. Perfect.
+Rest restores all of a Pokémon's HP and puts it to sleep. The sleep status replaces any existing status, including paralysis. And then the Pokémon wakes up 2 or 3 turns later (depending on how much HP it regained), so the sleep status is gone as well. And to top it all off, the wild Snorlax in Leaf Green is holding a [Chesto Berry](https://www.serebii.net/itemdex/chestoberry.shtml)! So it eats that berry the first time it falls asleep and immediately wakes back up. Perfect.
 
 Cue montage:
 
@@ -181,7 +181,7 @@ Now Snorlax is over in Gale of Darkness, so I can teach him Self-destruct!
 
 # Teaching Snorlax Self-destruct
 
-Here's an interesting tidbit of information. As I mentioned last week, Snorlax learns Self-destruct from a Move Tutor in Gale of Darkness. Move Tutors are a frequent occurrence in the Pokémon games: an NPC that will teach your Pokémon specific moves in exchange for some in-game currency or sometimes for free.
+Here's an interesting tidbit of information. As I mentioned last week, Snorlax learns Self-destruct from a [Move Tutor](https://bulbapedia.bulbagarden.net/wiki/Move_Tutor) in Gale of Darkness. Move Tutors are a frequent occurrence in the Pokémon games: an NPC that will teach your Pokémon specific moves in exchange for some in-game currency or sometimes for free.
 
 For reasons passing understanding, the move tutor in Gale of Darkness can only teach each specific move that she teaches overall *once each*. Once she teaches *any* Pokémon Self-destruct she can't teach any more Pokémon Self-destruct in that save file.
 
@@ -189,14 +189,14 @@ Why do you do this to me, Game Freak?
 
 ![](/assets/img/game-freak-troll.png){:style="max-height:250px;"}
 
-So, I had my Snorlax in Gale of Darkness and needed to check if the move tutor will still teach Self-destruct. I checked online where the move tutor is in the game, and I found out she's in Agate Village. The first site I checked didn't say specifically where in Agate Village, but I figured the level isn't that big, so I'll just search. I talked to one of the first NPCs that I encountered in the village.
+So, I had my Snorlax in Gale of Darkness and needed to check if the move tutor will still teach Self-destruct. I checked online where the move tutor is in the game, and I found out she's in [Agate Village](https://www.serebii.net/pokearth/orre/agatevillage.shtml). The first site I checked didn't say specifically where in Agate Village, but I figured the level isn't that big, so I'll just search. I talked to one of the first NPCs that I encountered in the village.
 
 ![](/assets/img/munchlax-gale-unexpected-battle.jpg){:style="max-height:250px;"}
 *Crap. Wasn't prepared for this.*
 
-Thankfully my unintentional opponent was using Bug type Pokémon and my pared down Gale of Darkness party happened to include a Dodrio that knew Drill Peck. Dodrio, despite being only at level 25 and its opponents at level 30, defeated them handily.
+Thankfully my unintentional opponent was using Bug type Pokémon and my pared down Gale of Darkness party happened to include a [Dodrio](https://www.serebii.net/pokedex-sm/085.shtml) that knew [Drill Peck](https://www.serebii.net/attackdex-sm/drillpeck.shtml). Dodrio, despite being only at level 25 and its opponents at level 30, defeated them handily.
 
-Then I went back to the internet and looked up *precisely* where the move tutor was in Agate Village. Because if I talked to anyone else I'd end up fighting a level 70 Blaziken or something and get thrown back to the Pokémon center when it destroyed me.
+Then I went back to the internet and looked up *precisely* where the move tutor was in Agate Village. Because if I talked to anyone else I'd end up fighting a level 70 [Blaziken](https://www.serebii.net/pokedex-sm/257.shtml) or something and get thrown back to the Pokémon center when it destroyed me.
 
 In a cave on the west side of the village. Good!
 
@@ -227,7 +227,7 @@ The import mechanism is a bit weird. You go to Pal Park in Diamond while Leaf Gr
 ![](/assets/img/munchlax-catching-show.jpg){:style="max-height:250px;"}
 *The 6 Pokémon you choose are the only ones in Pal Park each time you enter*
 
-You're given 6 100% catch rate Pokéballs called Park Balls. (Makes you wonder why the Master Ball is limited to one per game.) It recognizes the trainer name from your old game when catching the Pokémon.
+You're given 6 100% catch rate Pokéballs called [Park Balls](https://www.serebii.net/itemdex/parkball.shtml). (Makes you wonder why the [Master Ball](https://www.serebii.net/itemdex/masterball.shtml) is limited to one per game.) It recognizes the trainer name from your old game when catching the Pokémon.
 
 ![](/assets/img/munchlax-zubat-catch.jpg){:style="max-height:250px;"}
 *I used to name all of my characters Ash after the show, but my character in Leaf Green is female. So Ashelin, obviously.*
@@ -263,12 +263,12 @@ I've yet to do much competitive battling in Generation 7 (Sun & Moon), so I have
 
 ![](/assets/img/munchlax-incense-merchant.jpg){:style="max-height:250px;"}
 
-I needed to grab a Ditto from my boxes in Pokémon Bank to act as the other parent.
+I needed to grab a [Ditto](https://www.serebii.net/pokedex-sm/132.shtml) from my boxes in Pokémon Bank to act as the other parent.
 
 ![](/assets/img/munchlax-ditto.jpg){:style="max-height:250px;"}
 *Ditto is all things to all Pokémon*
 
-And then I put them together in the Pokémon Nursery on Akala Island. An egg has a chance of appearing every 257 steps you take in-game. And the fastest way to do that is, of course, to run around in a circle on a Tauros.
+And then I put them together in the Pokémon Nursery on Akala Island. An egg has a chance of appearing every 257 steps you take in-game. And the fastest way to do that is, of course, to run around in a circle on a [Tauros](https://www.serebii.net/pokedex-sm/128.shtml).
 
 ![](/assets/img/munchlax-tauros.jpg){:style="max-height:250px;"}
 *It only makes sense if you don't think about it*
@@ -278,7 +278,7 @@ And after a while, the egg appears!
 ![](/assets/img/munchlax-egg-receive.jpg){:style="max-height:250px;"}
 *We have come so far for this*
 
-Having a Pokémon in your party that has the ability Flame Body or Magma Armor makes Pokémon eggs hatch faster. (Lore wise, it's presumably because it keeps them warm.) I didn't have any Pokémon with those abilities to hand, so I had to run around on Tauros for longer.
+Having a Pokémon in your party that has the ability [Flame Body](https://www.serebii.net/abilitydex/flamebody.shtml) or [Magma Armor](https://www.serebii.net/abilitydex/magmaarmor.shtml) makes Pokémon eggs hatch faster. (Lore wise, it's presumably because it keeps them warm.) I didn't have any Pokémon with those abilities to hand, so I had to run around on Tauros for longer.
 
 ![](/assets/img/munchlax-tauros-2.jpg){:style="max-height:250px;"}
 
