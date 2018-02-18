@@ -31,12 +31,12 @@ I also need my Generation 3 GameBoy Advance games
 
 And several of the DS games as well:
 
-// image of DS game case
+![](/assets/img/munchlax-ds-games.jpg){:style="max-height:250px;"}
 *This is my case of Pokémon games, I have a separate case for all of my other DS games*
 
 If you take a look at the GameCube to GameBoy Advance link cable, you'll notice that it's sized to fit a GameBoy Advance specifically, not a DS. So even with a DS that can play GBA games, I still need an actual GBA to trade between any of the Generation 3 games and Gale of Darkness. So off to another drawer and I find:
 
-// picture of GBA SP
+![](/assets/img/munchlax-gba-sp.jpg){:style="max-height:250px;"}
 *With actual front-lit (bottom-lit?) screen*
 
 In fact, I have *two* (which was totally for trading Pokémon way back when):
@@ -72,28 +72,28 @@ The other alternative would be to restart Pokémon XD: Gale of Darkness. Being a
 
 Cue frantic search:
 
-// Gale of Darkness title screen
+![](/assets/img/munchlax-gale-of-darkness-title-screen.jpg){:style="max-height:250px;"}
 *Let's see if we can do this with no trading at all to start with*
 
-// image of boxes full of oddish
+![](/assets/img/munchlax-gale-of-darkness-box.jpg){:style="max-height:250px;"}
 *I've replaced almost all of my Pokémon with Natu and Oddish*
 
-// fire red image
-*We'll check here next, I played Leaf Green more than Fire Red*
+![](/assets/img/munchlax-fire-red-title.jpg){:style="max-height:250px;"}
+*We'll check here next, I played Leaf Green more than Fire Red, so Snorlax might have been skipped here*
 
-// image of empty snorlax spot
+![](/assets/img/munchlax-fire-red-snorlax-1.jpg){:style="max-height:250px;"}
 *There was once a Snorlax in this location*
 
-// next
+![](/assets/img/munchlax-fire-red-snorlax-2.jpg){:style="max-height:250px;"}
 *And this one*
 
-// image of Leaf Green
+![](/assets/img/munchlax-leaf-green-title.jpg){:style="max-height:250px;"}
 *I played a lot of Leaf Green, this seems unlikely to work*
 
-// image of empty slot
+![](/assets/img/munchlax-leaf-green-snorlax-empty.jpg){:style="max-height:250px;"}
 *Crap*
 
-// image of Snorlax
+![](/assets/img/munchlax-leaf-green-snorlax-found.jpg){:style="max-height:250px;"}
 *Victory!*
 
 Through some prescient series of decisions over a decade ago, in my copy of Leaf Green I never disturbed the Snorlax blocking the way to the Bike Path west of Celadon City. Despite training my team up to the high 80s in Leaf Green, apparently I didn't feel the need to fight the Bikers and their Koffing.
@@ -111,24 +111,33 @@ Next problem:
 
 Snorlax is thankfully not very high level. It's only level 30. I'll assemble a crackpot team of Pokémon from what remains in my copy of Leaf Green to capture it!
 
-// image of team
+![](/assets/img/munchlax-leaf-green-party.jpg){:style="max-height:250px;"}
 *Yes, that's a level 3 Pidgey. It knows Fly.*
 
 And we're in luck! That Bellsprout, at level 31 and one of my strongest Pokémon left (what am I even doing), knows Stun Spore! Paralysis will make Snorlax easier to catch and help me out in the battle. But there's a relatively predictable issue with that:
 
-// image of Snorlax using Rest
+![](/assets/img/munchlax-leaf-green-chesto-berry.jpg){:style="max-height:250px;"}
 *Of course Snorlax knows Rest*
 
 Rest restores all of a Pokémon's HP and puts it to sleep. The sleep status replaces any existing status, including paralysis. And then the Pokémon wakes up 2 or 3 turns later (depending on how much HP it regained), so the sleep status is gone as well. And to top it all off, the wild Snorlax in Leaf Green is holding a Chesto Berry! So it eats that berry the first time it falls asleep and immediately wakes back up. Perfect.
 
 Cue montage:
 
-// images of battle
+![](/assets/img/munchlax-meowth-pay-day.jpg){:style="max-height:250px;"}
 
-// image of successful capture
+![](/assets/img/munchlax-meowth-asleep.jpg){:style="max-height:250px;"}
+
+![](/assets/img/munchlax-bellsprout-ultra-ball.jpg){:style="max-height:250px;"}
+
+![](/assets/img/munchlax-snorlax-catch-fail.jpg){:style="max-height:250px;"}
+
+![](/assets/img/munchlax-snorlax-caught.jpg){:style="max-height:250px;"}
 *We did it!*
 
 Success! So I walked back to the Pokémon Center and found Snorlax tucked away in Bill's PC. I swapped him into my party because you can only trade from your party until Generation 5 (Black & White). I moved into the middle of the Pokéball symbol in the floor on the Pokémon Center to save the game (because that's the place where sane people stand when saving the game).
+
+![](/assets/img/munchlax-leaf-green-pkmn-center.jpg){:style="max-height:250px;"}
+*Right in this spot*
 
 Then I put the DS down to take a picture. And apparently I put it down too hard, because the whole thing shut off.
 
@@ -136,11 +145,14 @@ After I'd been kicked back to the system menu, I realized it thought the game ca
 
 But of course, I hadn't saved. So I needed to catch Snorlax again.
 
-// more images
+![](/assets/img/munchlax-grumpy-rage.jpg){:style="max-height:250px;"}
+
+![](/assets/img/munchlax-snorlax-pokedex.jpg){:style="max-height:250px;"}
 
 Success again! I very gingerly set down the DS to take this picture:
 
-// image of save menu
+![](/assets/img/munchlax-leaf-green-save.jpg){:style="max-height:250px;"}
+*I won't*
 
 And we have the Snorlax we need!
 
@@ -148,7 +160,7 @@ And we have the Snorlax we need!
 
 Above, while finding and catching Snorlax in Leaf Green, I was playing the GameBoy Advance game on my DS, because my DS is in good condition and still works (I'm inclined to blame the game cart for the episode with it all shutting off). Now, trading to Gale of Darkness, I need to rely on the GameBoy Advance SP.
 
-// image
+![](/assets/img/munchlax-sp-ready-to-trade.jpg){:style="max-height:250px;"}
 *Ol' faithful*
 
 My GameBoy Advance SP is 15 years old (soon it'll be old enough to vote). It has traveled across the Atlantic Ocean to get here. And it's using a stock rechargeable 700mAh lithium ion battery that it shipped with on day one.
@@ -160,12 +172,12 @@ Predictably, that battery doesn't hold charge very well. In fact, it barely hold
 
 I only need it to work for a few minutes at a time to actually make the trade. But helpfully, most of that time is spent on screens that say things like "Don't turn off the power":
 
-// image of trade screen
+![](/assets/img/munchlax-gale-trade.jpg){:style="max-height:250px;"}
 *It's not like there's 15 years of Pokémon history on the line or anything*
 
 Despite the GameBoy Advance SP not turning on at all several times (even though it seemingly had full charge), it did work!
 
-// image of trade
+![](/assets/img/munchlax-trade-graphics.jpg){:style="max-height:250px;"}
 *Futuristic 2005 graphics and everything*
 
 Now Snorlax is over in Gale of Darkness, so I can teach him Self-destruct!
@@ -178,11 +190,11 @@ For reasons passing understanding, the move tutor in Gale of Darkness can only t
 
 Why do you do this to me, Game Freak?
 
-// troll image
+![](/assets/img/game-freak-troll.png){:style="max-height:250px;"}
 
 So, I had my Snorlax in Gale of Darkness and needed to check if the move tutor will still teach Self-destruct. I checked online where the move tutor is in the game, and I found out she's in Agate Village. The first site I checked didn't say specifically where in Agate Village, but I figured the level isn't that big, so I'll just search. I talked to one of the first NPCs that I encountered in the village.
 
-// battle image
+![](/assets/img/munchlax-gale-unexpected-battle.jpg){:style="max-height:250px;"}
 *Crap. Wasn't prepared for this.*
 
 Thankfully my unintentional opponent was using Bug type Pokémon and my pared down Gale of Darkness party happened to include a Dodrio that knew Drill Peck. Dodrio, despite being only at level 25 and its opponents at level 30, defeated them handily.
@@ -191,17 +203,17 @@ Then I went back to the internet and looked up *precisely* where the move tutor 
 
 In a cave on the west side of the village. Good!
 
-// image of cave
+![](/assets/img/munchlax-gale-cave.jpg){:style="max-height:250px;"}
 *Strange place to live, but sure*
 
 Thankfully. Mercifully. Self-destruct was still in the list of moves that could be taught. No need to restart Gale of Darkness to re-enable that move tutor move! Actually learning the move is just picking from a menu then!
 
-// image
+![](/assets/img/munchlax-gale-self-destruct.jpg){:style="max-height:250px;"}
 *And we have Snorlax with Self-destruct, called SELFDESTRUCT at the time, because the old games were always shouting at you*
 
 Another run in with the dicey GameBoy Advance SP's battery was needed:
 
-// trade image
+![](/assets/img/munchlax-gale-trade-back.jpg){:style="max-height:250px;"}
 *Please don't turn off, please don't turn off, please don't turn off...*
 
 And Snorlax was back in Leaf Green, ready for the journey forward in time.
@@ -210,80 +222,83 @@ And Snorlax was back in Leaf Green, ready for the journey forward in time.
 
 Now we're back to the DS Lite to import Snorlax from Leaf Green to Diamond. You can only import Pokémon from Generation 3 to Generation 4 once every 24 hours. It had at least 8 years since I last imported into my Generation 4 games, so we were ok on that front. Pokémon also have to be imported in a group of 6. Snorlax was the only one that I really needed to bring over, but I thought the brave Bellsprout that helped me catch Snorlax also deserved a place in the future Pokémon games, so he went along as well.
 
-// Diamond title screen
+![](/assets/img/munchlax-diamond-title.jpg){:style="max-height:250px;"}
 *It's been a long time since I saw this screen*
 
-The import mechanism is a bit weird. You go to Pal Park in Diamond while Leaf Green is in the DS's GBA slot. You pick the Pokémon to bring over and then you play a "catching contest" where you go and catch those 6 Pokémon.
+The import mechanism is a bit weird. You go to Pal Park in Diamond while Leaf Green is in the DS's GBA slot. You pick the Pokémon to bring over and then you play a "catching show" where you go and catch those 6 Pokémon.
 
-// catching image
+![](/assets/img/munchlax-catching-show.jpg){:style="max-height:250px;"}
 *The 6 Pokémon you choose are the only ones in Pal Park each time you enter*
 
 You're given 6 100% catch rate Pokéballs called Park Balls. (Makes you wonder why the Master Ball is limited to one per game.) It recognizes the trainer name from your old game when catching the Pokémon.
 
-// image of catching
+![](/assets/img/munchlax-zubat-catch.jpg){:style="max-height:250px;"}
 *I used to name all of my characters Ash after the show, but my character in Leaf Green is female. So Ashelin, obviously.*
 
 After some wandering around, Snorlax!
 
-// image of Snorlax
+![](/assets/img/munchlax-snorlax-pal-park.jpg){:style="max-height:250px;"}
 *Here we are*
 
 Then I needed both my DS and 3DS to do the import from Diamond to White:
 
-// White title screen
+![](/assets/img/munchlax-white-title.jpg){:style="max-height:250px;"}
 *It's also been a long time since I saw this*
 
 The import into Generation 5 is also bizarre. It uses the DS's Download Play mechanic to download a minigame onto the DS you're importing *from*. There, you have a kind of Pokéball slingshot that you use to catch the 6 Pokémon you're importing as they jump between some bushes.
 
-// image of import game
+![](/assets/img/munchlax-white-import-game.jpg){:style="max-height:250px;"}
 *I don't know why this isn't just a menu*
 
 Now Snorlax is in a Generation 5 DS game! That means I can use the Poké Transporter application on the 3DS to import it into Pokémon Bank!
 
-// update image
+![](/assets/img/munchlax-poke-transporter-updates.jpg){:style="max-height:250px;"}
 *After installing all of the updates since I last used the Poké Transporter in 2014*
 
 And then from Bank, it's a simple download into Ultra Moon!
+
+![](/assets/img/munchlax-ultra-moon-title.jpg){:style="max-height:250px;"}
+*The newer title screen looks much fancier when you've just seen the old ones*
 
 # Breeding Munchlax
 
 I've yet to do much competitive battling in Generation 7 (Sun & Moon), so I haven't gone through and found all the generally useful items and abilities for breeding yet. Snorlax needs to be holding a Full Incense to evolve, which I needed to find a merchant for and purchase:
 
-// incense merchant
+![](/assets/img/munchlax-incense-merchant.jpg){:style="max-height:250px;"}
 
 I needed to grab a Ditto from my boxes in Pokémon Bank to act as the other parent.
 
-// ditto image
+![](/assets/img/munchlax-ditto.jpg){:style="max-height:250px;"}
 *Ditto is all things to all Pokémon*
 
 And then I put them together in the Pokémon Nursery on Akala Island. An egg has a chance of appearing every 257 steps you take in-game. And the fastest way to do that is, of course, to run around in a circle on a Tauros.
 
-// tauros image
+![](/assets/img/munchlax-tauros.jpg){:style="max-height:250px;"}
 *It only makes sense if you don't think about it*
 
 And after a while, the egg appears!
 
-// egg image
+![](/assets/img/munchlax-egg-receive.jpg){:style="max-height:250px;"}
 *We have come so far for this*
 
 Having a Pokémon in your party that has the ability Flame Body or Magma Armor makes Pokémon eggs hatch faster. (Lore wise, it's presumably because it keeps them warm.) I didn't have any Pokémon with those abilities to hand, so I had to run around on Tauros for longer.
 
-// tauros image
+![](/assets/img/munchlax-tauros-2.jpg){:style="max-height:250px;"}
 
 And then...
 
-// oh?
+![](/assets/img/munchlax-egg-oh.jpg){:style="max-height:250px;"}
 *It begins*
 
-// egg hatching image
+![](/assets/img/munchlax-egg-hatching.jpg){:style="max-height:250px;"}
 *Munchlax. Munchlax will be glorious.*
 
-// munchlax image
-*Isn't it cute?*
+![](/assets/img/munchlax-egg-hatched.jpg){:style="max-height:250px;"}
+*There it is! Isn't it cute?*
 
 We have it! And what moves does it know!?
 
-// image of munchlax with self-destruct
+![](/assets/img/munchlax-has-moves.jpg){:style="max-height:250px;"}
 *It worked! Not that I doubted it until this very moment or anything*
 
-And now we've done it! We've exercised the ridiculous Pokémon egg move edge case that is Munchlax with Self-destruct. It's been a journey and I hope you've enjoyed each step of it!
+And now we've done it! We've exercised the ridiculous Pokémon egg move edge case that is Munchlax with Self-destruct. It's been a journey and I hope you've enjoyed every step!
