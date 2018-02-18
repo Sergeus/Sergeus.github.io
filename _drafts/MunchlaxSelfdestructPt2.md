@@ -1,6 +1,7 @@
 ---
 title: Teaching Munchlax Self-destruct Part 2
 inline_title: true
+image_meta: /assets/img/munchlax-selfdestruct-pt2-image-meta.jpg
 ---
 
 This is the second part of my discussion of [Munchlax](https://www.serebii.net/pokedex-sm/446.shtml) and [Self-destruct](https://www.serebii.net/attackdex-sm/self-destruct.shtml). You'll want to read [last week's blog post]({% post_url 2018-02-11-MunchlaxSelfdestruct %}) before this one. There I talk about *how* Munchlax learns Self-destruct and why this particular edge case was one of the main inspirations for starting this blog in the first place.
