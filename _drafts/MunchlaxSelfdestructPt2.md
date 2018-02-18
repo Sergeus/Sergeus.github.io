@@ -11,22 +11,22 @@ I've mentioned before that some of the edge cases I find are things that are dif
 
 The first thing we need to do is make sure I have all the hardware we need to get all the way from Generation 3 (Ruby & Sapphire) and Pokémon XD: Gale of Darkness up to Ultra Moon. What do we need for that?
 
-// image of Wii and gamecube controller
+![](/assets/img/munchlax-wii-controller.jpg){:style="max-height:250px;"}
 *This is actually my first GameCube controller than came with my original GameCube*
 
 The Wii thankfully plays GameCube games as well as Wii ones! My GameCube is in a box somewhere at my parents' house, so the Wii is going to stand in for it. Thankfully (again), the Wii's GameCube controller ports support the GameCube to GameBoy Advance link cable as well:
 
-// image of GBA-to-gcn link cable
+![](/assets/img/munchlax-gba-gcn-cable.jpg){:style="max-height:250px;"}
 *I did not think I would be using this particular cable ever again*
 
 Next up I need a copy of Gale of Darkness!
 
-// image of gcn games
+![](/assets/img/gamecube-games-photo.jpg){:style="max-height:250px;"}
 *My elaborate filing system for games and unwillingness to throw any of it away has never been more useful than it was when doing this*
 
 I also need my Generation 3 GameBoy Advance games
 
-// GBA games image
+![](/assets/img/munchlax-gen3-games.jpg){:style="max-height:250px;"}
 *Easily retrieved from a nearby drawer*
 
 And several of the DS games as well:
@@ -39,17 +39,13 @@ If you take a look at the GameCube to GameBoy Advance link cable, you'll notice 
 ![](/assets/img/munchlax-gba-sp.jpg){:style="max-height:250px;"}
 *With actual front-lit (bottom-lit?) screen*
 
-In fact, I have *two* (which was totally for trading Pokémon way back when):
-
-// picture of both
-
 And to import from Generation 3 to Generation 4 (Diamond & Pearl), I need either a DS Phat or DS Lite (either of which have a GBA slot):
 
-// image of DS Lite
+![](/assets/img/munchlax-ds-lite.jpg){:style="max-height:250px;"}
 
-And finally, I need a 3DS to do the Generation 4 to Generation 5 (Black & White) import. And of course to use Pokémon Bank and Ultra Moon.
+And finally, I need a 3DS (or a 2DS in my case) to do the Generation 4 to Generation 5 (Black & White) import. And of course to use Pokémon Bank and Ultra Moon.
 
-// image of Pokeball 3ds
+![](/assets/img/munchlax-3ds.jpg){:style="max-height:250px;"}
 *On theme and everything*
 
 That's all the hardware we need to take a Snorlax on a journey from 2005 to 2017!
@@ -62,7 +58,8 @@ Here is the first place that things got dicey. In Generation 3, Snorlax isn't li
 
 There is also one Snorlax in Pokémon XD: Gale of Darkness itself. The way Gale of Darkness works, there are no wild Pokémon. Instead, some opposing trainers use "Shadow Pokémon" which have been corrupted and turned evil. The player character has a device that allows them to catch Shadow Pokémon used by other trainers and then later purify them into normal Pokémon.
 
-// image
+![](/assets/img/shadow-lugia.png){:style="max-height:250px;"}
+*Shadow Lugia, posing for the box art*
 
 Between all of the above, that means there are five Snorlax available in total in Generation 3. (Snorlax can't be caught in Pokémon Colosseum either.) Years ago, as the import mechanisms were available for moving my Pokémon over from older games, I emptied out all of the Pokémon I had caught in those old games into the newer ones. So in my Pokémon Bank there are 15 years of historical Pokémon from all of my different Pokémon games. (And if Nintendo ever deletes them because I forget to pay my $5 per year in the two week window before my subscription expires, I may actually die.)
 
@@ -106,13 +103,13 @@ Well, we have a wild Snorlax.
 
 Next problem:
 
-// image of empty box
+![](/assets/img/munchlax-empty-box.jpg){:style="max-height:250px;"}
 *I said I emptied the games out, right?*
 
 Snorlax is thankfully not very high level. It's only level 30. I'll assemble a crackpot team of Pokémon from what remains in my copy of Leaf Green to capture it!
 
 ![](/assets/img/munchlax-leaf-green-party.jpg){:style="max-height:250px;"}
-*Yes, that's a level 3 Pidgey. It knows Fly.*
+*Yes, that's a level 3 Pidgey.*
 
 And we're in luck! That Bellsprout, at level 31 and one of my strongest Pokémon left (what am I even doing), knows Stun Spore! Paralysis will make Snorlax easier to catch and help me out in the battle. But there's a relatively predictable issue with that:
 
@@ -134,7 +131,7 @@ Cue montage:
 ![](/assets/img/munchlax-snorlax-caught.jpg){:style="max-height:250px;"}
 *We did it!*
 
-Success! So I walked back to the Pokémon Center and found Snorlax tucked away in Bill's PC. I swapped him into my party because you can only trade from your party until Generation 5 (Black & White). I moved into the middle of the Pokéball symbol in the floor on the Pokémon Center to save the game (because that's the place where sane people stand when saving the game).
+Success! So I walked back to the Pokémon Center and found Snorlax tucked away in Bill's PC. I swapped him into my party because you can only trade from your party, not directly from the PC, until Generation 5 (Black & White). I moved into the middle of the Pokéball symbol in the floor on the Pokémon Center to save the game (because that's the place where sane people stand when saving the game).
 
 ![](/assets/img/munchlax-leaf-green-pkmn-center.jpg){:style="max-height:250px;"}
 *Right in this spot*
@@ -167,10 +164,10 @@ My GameBoy Advance SP is 15 years old (soon it'll be old enough to vote). It has
 
 Predictably, that battery doesn't hold charge very well. In fact, it barely holds charge at all.
 
-// image of sp with red light
-*Going well*
+![](/assets/img/munchlax-sp-battery.jpg){:style="max-height:250px;"}
+*At least it **does** power on*
 
-I only need it to work for a few minutes at a time to actually make the trade. But helpfully, most of that time is spent on screens that say things like "Don't turn off the power":
+I only need it to work for a few minutes at a time to actually make the trade. But helpfully, most of that time is spent on screens that say things like "Don't turn off the power".
 
 ![](/assets/img/munchlax-gale-trade.jpg){:style="max-height:250px;"}
 *It's not like there's 15 years of Pokémon history on the line or anything*
@@ -186,7 +183,7 @@ Now Snorlax is over in Gale of Darkness, so I can teach him Self-destruct!
 
 Here's an interesting tidbit of information. As I mentioned last week, Snorlax learns Self-destruct from a Move Tutor in Gale of Darkness. Move Tutors are a frequent occurrence in the Pokémon games: an NPC that will teach your Pokémon specific moves in exchange for some in-game currency or sometimes for free.
 
-For reasons passing understanding, the move tutor in Gale of Darkness can only teach each specific move that she teaches overall *once each*. Once she teaches *any* Pokémon Self-destruct she can't teach anymore Pokémon Self-destruct in that save file.
+For reasons passing understanding, the move tutor in Gale of Darkness can only teach each specific move that she teaches overall *once each*. Once she teaches *any* Pokémon Self-destruct she can't teach any more Pokémon Self-destruct in that save file.
 
 Why do you do this to me, Game Freak?
 
