@@ -7,15 +7,15 @@ Arceus, the God Pokémon, is one of the strongest Pokémon around. Its mythology
 
 // image of Arceus
 
-Today, I'm going to talk about why Arceus's type changing is a bit bananas.
+Today, I'm going to talk about why Arceus's type changing and some of the systems related to it are a bit bananas.
 
-Arceus is a Normal Type Pokémon by default. When Arceus was introduced, 17 new items were also introduced at the same time: the elemental plates. There was one for each type aside from Normal: the Flame Plate for Fire, the Splash Plate for Water, and so on. While holding one of these Plates, Arceus changes into the appropriate type. This is all driven by Arceus's ability: Multitype.
+Arceus is a Normal Type Pokémon by default. When Arceus was introduced, 17 new items were also introduced at the same time: the elemental plates. There was one for each type aside from Normal: the Flame Plate for Fire, the Splash Plate for Water, and so on. (There were 16 because there was no Normal Plate and the Fairy type wasn't introduced until Generation 6, at which time the Pixie Plate for the Fairy Type brought the Plate count up to 17.) While holding one of these Plates, Arceus changes into the appropriate type. This is all driven by Arceus's ability: Multitype.
 
-When Arceus changed type, its signature move, Judgment, also changed type to match. Between Judgment's massive base power, Arceus's extremely high attacking stats, the boost to moves of that type provided as a side effect of the Plate, and the Same Type Attack Bonus Arceus gets from being the same type as the move it's using, Judgment tends to hit very hard.
+When Arceus changed type, its signature move, Judgment, also changed type to match. Between Judgment's massive base power, Arceus's extremely high attacking stats, the power boost to moves of that type provided as a side effect of the Plate, and the Same Type Attack Bonus (STAB) Arceus gets from being the same type as the move it's using, Judgment tends to hit very hard.
 
 // image
 
-Supporting all of these type changing shenanigans in the Generation 6 (X & Y) version of PokémonCompDB went quite well. In fact, Genesect was added in Generation 6 and did a similar thing. Genesect's changes form when given one of four Drive items: Burn Drive, Douse Drive, Shock Drive, Chill Drive. While holding the respective Drive, the type of Genesect's signature move Techno Blast changed to match the Drive (though Genesect's type remained the same).
+Supporting all of these type changing shenanigans in the Generation 6 (X & Y) version of PokémonCompDB went quite well. In fact, Genesect was added in Generation 6 and did a similar thing. Genesect's changes form when given one of four Drive items: Burn Drive, Douse Drive, Shock Drive, and Chill Drive. While holding the respective Drive, the type of Genesect's signature move Techno Blast changed to match the Drive (though Genesect's type remained the same).
 
 // image of genesect
 
@@ -46,20 +46,26 @@ The next curveball: when Arceus changes type due to a Z-Crystal, Judgment doesn'
 
 You've got to be *kidding* me! Game Freak are just messing with me at this point. So my form type override system no longer makes sense. It's an *item* type override for specific forms. Back to the drawing board for how *that* system works.
 
+Interesting, wrinkle, unlike Arceus, Silvally's type is *not* affected by Z-Crystals. Because consistency!
+
 You might be wondering how I realized this was a problem, when my system was chugging happily along before, incorrectly changing Judgment's type when Arceus was holding a Z-Crystal. I was actually looking into *another* edge case, which led me to this one.
 
 // image
 
-There are a series of abilities that change the type of Normal Type moves to a different type (and as of Generation 7 they also boost those moves' power): Aerilate, Galvanize, Pixilate, and Refrigerate. Normal Type moves used by Pokémon with those abilities change to Flying, Electric, Fairy, and Ice respectively. I've been looking into what it would take to support some of the gameplay effects of abilities that are relevant to PokémonCompDB, since at the moment it only actually gives you any feedback on abilities that change your Pokémon's form (like Zen Mode affects Darmanitan, which I've discussed before).
+There are a series of abilities that change the type of Normal Type moves to a different type (and as of Generation 7 they also boost those moves' power as well): Aerilate, Galvanize, Pixilate, and Refrigerate. Normal Type moves used by Pokémon with those abilities change to Flying, Electric, Fairy, and Ice respectively. I've been looking into what it would take to support some of the gameplay effects of abilities that are relevant to PokémonCompDB, since at the moment it only actually gives you any feedback on abilities that change your Pokémon's form (like Zen Mode affects Darmanitan, which I've discussed before).
 
 Judgment, Techno Blast, and Multi-Attack are all Normal Type moves by default. Neither Arceus, Silvally, nor Genesect can have any of the above type changing abilities permanently, but *I've learned my lesson*. I need to find out what happens if you somehow give one of those Pokémon that ability and what the game does.
 
-How would you do that? Well, what if you take your Arceus to visit the move tutor in Heart Gold or Soul Silver and teach it Role Play? (Role Play replaces the user's ability with the target's.) Then import it all the way up to at least Generation 6 (I have posts about how to do that, Heart Gold & Soul Silver are in Generation 4) and have your Arceus use Role Play against an opposing Mega Salamence that has Aerilate?
+How would you do that? Well, what if you take your Arceus to visit the move tutor in Heart Gold or Soul Silver and teach it Role Play? (Role Play replaces the user's ability with the target's.) Then import it all the way up to at least Omega Ruby or Alpha Sapphire (I have posts about how to do that, Heart Gold & Soul Silver are in Generation 4) and have your Arceus use Role Play against an opposing Mega Salamence that has Aerilate?
 
-Nothing happens. Judgment is unaffected.
+It doesn't change it. Judgment is unaffected.
+
+// liquid voice
+
+// confirm Techno Blast and Multi-Attack behavior
 
 // image
 
-Great! Just *great*! So there's a priority system behind all of these type changes as well!
+Great! Just *great*! So there's a priority system behind all of these type changes as well! 
 
 Fine! PokémonCompDB will support that too! Because I'm certifiably insane!
