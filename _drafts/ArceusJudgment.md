@@ -66,6 +66,15 @@ It doesn't change it. Judgment is unaffected.
 
 // image
 
-Great! Just *great*! So there's a priority system behind all of these type changes as well! 
+Great! Just *great*! So there's a priority system behind all of these type changes as well!
 
-Fine! PokémonCompDB will support that too! Because I'm certifiably insane!
+But what did I say above about learning lessons? Additional research is needed, I need to be *sure* that Multi-Attack and Techno Blast are *also* unaffected by Aerilate/Pixilate/etc otherwise this is a *per move* priority system, not based on the method the type has been changed. To Bulbapedia!
+
+![](/assets/img/multi-attack-research-needed.PNG)
+*I am apparently at the forefront of Pokémon reverse engineering research*
+
+Well. Fine! I own a copy of the games! I have a Type: Null that needs evolving and several Genesects from events years ago!
+
+// image of them using the moves
+
+And PokémonCompDB will support that too! Because I'm insane!
