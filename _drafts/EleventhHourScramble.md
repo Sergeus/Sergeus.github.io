@@ -3,7 +3,7 @@ title: Eleventh Hour Scramble
 inline_title: true
 ---
 
-I had great fun with this blog back when I wrote most of the posts in 2017/18. And now, 6 years later (wow), I'm back because I've been playing some Pokémon games recently and discovered a couple of very small things that I didn't see recorded online. So I thought it'd be fun to talk about some of those, so they're recorded for posterity. (Or at least as long as I pay my domain registrar, and maybe the Internet Archive will keep it going from there.)
+I had great fun with this blog back when I wrote most of the posts in 2017/18. And now, 6 years later (wow), I'm back because I've been playing some Pokémon games recently and discovered a couple of very small things that I didn't see recorded online. So I thought it'd be fun to talk about some of those, so they're recorded for posterity. (Or at least as long as I pay my domain registrar, and maybe [the Internet Archive](https://archive.org/) will keep it going from there.)
 
 Winding it back a second - why am I back *now*? Why is this the "Eleventh Hour"?
 
