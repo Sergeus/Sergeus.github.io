@@ -9,17 +9,17 @@ Winding it back a second - why am I back *now*? Why is this the "Eleventh Hour"?
 
 On April 8th 2024, the 3DS online services are [scheduled to be shut down](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63227/~/announcement-of-discontinuation-of-online-services-for-nintendo-3ds-and-wii-u). Nintendo have said that Pokémon Bank and Poké Transporter are going to continue to work, while *all other online services for that console* are going to stop.
 
-They're very specific about that:
+They're very specific about that (this screenshot is from the site at the above link):
 ![](/assets/img/OnlineServicesEndQA.png)
 *A much more humorous earlier version of this site presented it as a list with Bank as the only item*
 
 Pokémon Home is the clear replacement successor to Bank. There is no scheduled end date for Pokémon Bank (at time of writing, 10th March 2024). So maybe it will continue quasi-indefinitely. I suspect it's a cheap service to run physical cost wise. It'll probably be about maintenance and security breaches, but I'm not here to conjecture about the cause. I'm here to conjecture about the timing.
 
-I suspect Bank won't live quasi-indefinitely, with the rest of the 3DS online coming down around it and especially with Home already up and running. But are they really going to make all of those [challenges](https://www.serebii.net/pokemonhome/challenges.shtml) unobtainable?
+I suspect Bank won't live quasi-indefinitely, with the rest of the 3DS online coming down around it and especially with Home already up and running. But then again, are they really going to make all of those [challenges](https://www.serebii.net/pokemonhome/challenges.shtml) unobtainable?
 
 Still, things like [this](https://twitter.com/playpokemon/status/1709614360904004012) give me pause:
 ![](/assets/img/PokemonTwitterClosureWarning.png)
-*"At their earliest convencience" eh?*
+*"At their earliest convenience" eh?*
 
 It's important to note that this isn't the main official Pokémon or Nintendo Twitter. "Play! Pokémon" are the folks who organize the official online tournaments and the like. And on top of that, it's not confirmation of any date or even an intent.
 
