@@ -16,7 +16,7 @@ There are also 2 punctuation Unown (? and !), who are *absolutely sick of this s
 
 Getting the punctuation Unown is relatively involved. There are a bunch of guides (LINKS GO HERE) about how to do that online.
 
-I did this recently and I ran into a tiny quibble that none of the guides mentioned. Setting aside that I caught 36 Shadow Pokémon and purified 41 of them in Pokémon Colosseum to get a Ho-oh for one of the puzzles - ANYWAY!
+I did this recently and I ran into a tiny quibble that none of the guides mentioned. (Setting aside that I caught 36 Shadow Pokémon and purified 41 of them in Pokémon Colosseum to get a Ho-oh for one of the puzzles - ANYWAY!)
 
 The guides all talk about the 4 puzzles and the 4 secret rooms. (I also had to find a Water Stone.)
 
@@ -42,4 +42,7 @@ Thankfully I worked this out by dropping through each of them in sequence. (The 
 
 So there you have it! In addition to completing the 4 puzzles and entering the 4 secret rooms, you must also *drop from each of the secret rooms into the Ruins* in order to unlock the final part of page 7 of the Unown Report, which allows you to trigger the cutscene that causes the punctuation Unown to appear at the Ruins entrance.
 
-Now you, and the internet, know that. Because I panicked back before it did.
+Now you, and the internet, know that. Because I panicked back before it did. (Seriously, because it happened to be a Thursday, Genzo the photographer character happened to be in that room in the Ruins and I took a team photo thinking maybe he was blocking the cutscene.)
+
+// image of team photo
+*This was clearly what fixed it*
