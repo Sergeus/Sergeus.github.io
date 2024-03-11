@@ -30,7 +30,7 @@ The guides all talk about the 4 puzzles and the 4 secret rooms. <sub><sup>(I als
 ![](/assets/img/UnownPuzzle.png){:style="max-height: 200px"}
 *Guides like this one from [Psypoke](http://www.psypokes.com/hgss/unown.php)*
 
-I completed them all and went and talked to the guy in the Research Center. He unlocked page 7 of the Unown report for me. All the guides say "complete the 4 puzzles and the 4 hidden rooms" and some of them specifically mention "and then you'll get page 7 of the Unown report", and then they tell you to go to the entrance of the Ruins of Alph, where a cutscene will play and the punctuation Unown will unlock.
+I completed all 4 puzzles and all 4 secret rooms and then went and talked to the guy in the Research Center. He unlocked page 7 of the Unown report for me. All the guides say "complete the 4 puzzles and the 4 hidden rooms" and some of them specifically mention "and then you'll get page 7 of the Unown report", and then they tell you to go to the entrance of the Ruins of Alph, where a cutscene will play and the punctuation Unown will unlock.
 
 But it didn't work. I couldn't trigger the cutscene that would allow me to catch the punctuation Unown in the entrance tunnel.
 
