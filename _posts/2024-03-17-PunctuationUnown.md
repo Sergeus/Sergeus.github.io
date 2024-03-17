@@ -3,7 +3,7 @@ title: Punctuation Unown
 inline_title: true
 ---
 
-Unown, the alphabet Pokémon has been around since Generation 2 (Gold & Silver). Today I have a tidbit about *Heart* Gold & *Soul* Silver, the remakes from 2010.
+Unown, the alphabet Pokémon, has been around since Generation 2 (Gold & Silver). Today I have a tidbit about *Heart* Gold & *Soul* Silver, the remakes from 2010.
 
 There are 26 obvious Unown, one for each letter of the Roman alphabet.
 
