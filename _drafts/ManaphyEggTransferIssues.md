@@ -43,14 +43,14 @@ This one is easy enough to be sure about. Each copy of Ranger can only send a si
 
 Each copy of Diamond and Pearl can also only *receive* one Manaphy. Thankfully, the game will literally tell you this. If you try to send a Manaphy to a game that has already received one, you'll get a much more informative and obvious error along the lines of "You have already received this". (Once I eventually fixed my transfer error, I saw that exact screen with my copy of Diamond, which had already received a Manaphy from the original Pokémon Ranger.)
 
-I knew I hadn't sent enough Manaphies (is that the plural? Manaphys?) to *all* of my Generation 4 games, so that wasn't the problem.
+I knew I hadn't sent enough Manaphies (is that the plural? Manaphys?) to lock out *all* of my Generation 4 games, so that wasn't the problem.
 
-## The PokéMart
+## The Poké Mart
 Then I found [this discussion](https://gamefaqs.gamespot.com/boards/944533-pokemon-ranger-shadows-of-almia/48820203). Thank you, random GameFAQs users from 2009. You helped me a lot, here in 2024.
 
-Mr dt100 pointed out that they had the same problem - connectivity seemed to just drop. And it was caused by them being saved in a Poké Mart (where the messenger appears to give you the egg). They fixed it by moving their character out of the Poké Mart and saving there (they don't say where specifically).
+Mr dt100 pointed out that they had the same problem - connectivity seemed to just drop. And it was caused by them being saved in a Poké Mart (where the messenger appears to give you the egg). They fixed it by moving their character out of the Poké Mart and saving there (they don't say where they saved specifically).
 
-I was not saved in a Poké Mart. And they're talking about Shadows of Almia, the second Pokémon Ranger game, not Guardian Signs the third one (which is what I was trying to transfer from.) But that did get me thinking - if save location mattered in the previous game, where am I saved?
+I was not saved in a Poké Mart. And they're talking about Shadows of Almia, the second Pokémon Ranger game, not Guardian Signs the third one (which is what I was trying to transfer from). But that did get me thinking - if save location mattered in the previous game, where am I saved?
 
 ## *Upstairs* in a Pokémon Center
 Here was my problem. With all the transferring and trading shenanigans I've been doing recently, I was saved upstairs in a Pokémon Center, right in front of the Union Room.
