@@ -79,6 +79,19 @@ img + em {
 	content: inherit;
 }
 
+video {
+	display: block;
+	margin: auto;
+}
+
+video + p {
+	margin-top: 0px;
+	display: block;
+	text-align: center;
+	font-size: small;
+	color: grey;
+}
+
 .markdown-body td:first-child:nth-last-child(2),
 td:first-child:nth-last-child(2) ~ td,
 .markdown-body th:first-child:nth-last-child(2),
