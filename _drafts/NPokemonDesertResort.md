@@ -94,3 +94,5 @@ Like Route 2, I didn't run into any particular ambiguity. They can all be found 
 ## N's Pokémon
 
 Congratulations, you have found all of N's Pokémon! That probably took a while, but that N OT makes them unique!
+
+And have I mentioned that there's a fan theory that [N is a Pokémon](https://www.cbr.com/pokemon-black-and-white-n-is-a-pokemon/)? (Usually a Zoroark.) So now you have some Pokémon's Pokémon.
