@@ -21,7 +21,7 @@ Pokémon Dream World closed on January 14th, 2014. That's more than 10 years ago
 ![](/assets/img/EntreeForestMyPokemon.jpg){:style="max-height: 200px"}
 *They have waited for **so long***
 
-Those Pokémon have waited for 10+ years in that forest clearing. And you can bet I caught them.
+And found a bunch of Pokémon in Entree Forest that I had apparently caught and downloaded from the Dream World, back when it was operational. Those Pokémon have waited for 10+ years in that forest clearing. And you can bet I caught them.
 
 <video muted autoplay="autoplay" loop="loop" width="480" height="270">
   <source src="/assets/img/DreamWorldCatchButterfree.webm" type="video/webm">
