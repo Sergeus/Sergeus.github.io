@@ -28,4 +28,4 @@ And found a bunch of Pokémon in Entree Forest that I had apparently caught and 
 </video>
 *100% catch rate from Dream Balls helps a lot*
 
-Pokémon captured from the Dream World in 2024. That requires a very unlikely series of actions that I just happened to have stumbled into.
+Pokémon captured from the Dream World in 2024. I'm continually amazed at the small but unlikely scenarios I keep finding myself in when playing Pokémon.
