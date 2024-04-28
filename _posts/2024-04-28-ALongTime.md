@@ -9,5 +9,5 @@ My Pokémon Ranch for the Wii came out during Generation 4 (Diamond & Pearl), wh
 
 I started up My Pokémon Ranch the other day, to check if I had left any Pokémon in there (I had).
 
-![](/assets/img/Hayley14Years.jpg)
+![](/assets/img/Hayley14Years.jpg){:style="max-height: 300px"}
 *I have been playing Pokémon a long time*
