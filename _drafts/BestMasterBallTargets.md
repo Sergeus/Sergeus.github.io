@@ -5,7 +5,8 @@ inline_title: true
 
 The Master Ball, the guaranteed-100%-catch-chance Pokéball, is something you usually only get 1 of in an individual Pokémon game. So I always stop to consider what targets are the best to use it against in each game. While revisiting the games recently, I quite wanted to see a list like this that collates all of the information together, so now I'm writing one. So, here are my picks for the best Master Ball targets in each game that are a part of my [eleventh hour scramble]({% post_url 2024-03-10-EleventhHourScramble %}) to finish all of the pre-Bank Pokémon games, and collect the unique legends that they contain.
 
-IMAGE GOES HERE
+![](/assets/img/master-ball.png)
+*The [GS Ball](https://bulbapedia.bulbagarden.net/wiki/GS_Ball) has nothing on this*
 
 If you just want the list skip down to "List of Best Master Ball Targets" and find the game you're looking for (they're in release order).
 
@@ -28,6 +29,8 @@ Then you probably want to inflict a status condition on them as well, to make ca
 
 In some games, roaming Pokémon can run away while asleep, which led to [one of my favorite webcomics](https://www.awkwardzombie.com/comic/runaway).
 
+IMAGE GOES HERE
+
 Roaming Pokémon also generally keep damage and statuses between encounters (as long as you don't knock them out). So you could use a fast status-setter and [False Swipe](https://bulbapedia.bulbagarden.net/wiki/False_Swipe_(move)) over multiple encounters to whittle them down to 1 HP and inflict a status over multiple encounters. But then you have to *find* them however many times to actually get to that position (use the various Pokédex/location tracking features in the game once you've seen them once, but that can be an unwieldy set of menus).
 
 And I mentioned knocking them out, right? The behavior when you knock them out varies per game. Some games (generally later ones) they will respawn at full health if you beat the Elite Four again. But in a lot of the earlier ones they're just *lost forever*, so you need to be careful about saving and resetting while doing that.
@@ -42,7 +45,7 @@ The other thing that makes a Pokémon a good candidate for the Master Ball is if
 Pokémon that can heal themselves make hard catch targets, but the menagerie of difficulties with roaming Pokémon mean that I still prioritize using the Master Ball on roamers over healers.
 
 IMAGE GOES Here
-*But what if a Pokémon was both!? Huh, Gen 4 Articuno!?*
+*But what if a Pokémon was both!? Huh, Platinum Articuno!?*
 
 Slow heals like [Aqua Ring](https://bulbapedia.bulbagarden.net/wiki/Aqua_Ring_(move)) can also be particularly difficult, because it doesn't all happen at once.
 
@@ -56,54 +59,66 @@ IMAGE GOES HERE
 Given how slow and unreliable this method is, even for catching roaming Pokémon I don't consider it a serious option, because it's more reliable (and almost always faster) to train a team up to effectively hunt roaming Pokémon than to win this lottery.
 
 # List of Best Master Ball Targets
-Here we are - by game my selections for the list of best Pokémon to use your only Master Ball on. I'm starting at Generation 3, because I haven't yet replayed the Virtual Console Generation 1 and 2 games. (I might update this list in the future if I do.)
+Here we are - by game, my selections for the list of best Pokémon to use your only Master Ball on. I'm starting at Generation 3, because I haven't yet replayed the Virtual Console Generation 1 and 2 games. (I might update this list in the future if I do.)
 
 ## Ruby, Sapphire, & Emerald
 Latios in Ruby, Latias in Sapphire, or one of them of your choice in Emerald, appear as roaming Pokémon after you beat the Elite Four. They're the only roamer in each game, so this is an easy choice.
 
-IMAGE TABLE GOES HERE
+| Latios                | Latias              |
+|:---------------------:|:-------------------:|
+| ![](/assets/img/Latios.png){:style="max-height: 200px"} | ![](/assets/img/Latias.png){:style="max-height: 200px"} |
 
 ## Fire Red & Leaf Green
 Entei, Raikou, or Suicune will appear after you finish the Team Rocket storyline in the Sevii Islands. The one that appears is the one that has a type advantage against your starter Pokémon. Again, the one that appears is the only roaming Pokémon in this game, so it's an easy choice.
 
-TABLE GOES HERE
+| Entei                 | Raikou              | Suicune                |
+|:---------------------:|:-------------------:|:----------------------:|
+| ![](/assets/img/Entei.png) | ![](/assets/img/Raikou.png) | ![](/assets/img/Suicune.png) |
 
 **Beware**, there is a glitch in these encounters in Fire Red & Leaf Green. If the roaming Pokémon uses Roar to end the battle, they will be lost forever, instead of continuing to roam. Only Entei and Raikou know Roar (Suicune does not). So if it's Entei or Raikou you're chasing **definitely use a Master Ball**.
 
-# Colosseum & XD: Gale of Darkness
+## Colosseum & XD: Gale of Darkness
 Pokémon Colosseum on the GameCube is a bit of an outlier. But you do get a Master Ball in it. All of the [Shadow Pokémon](https://bulbapedia.bulbagarden.net/wiki/Shadow_Pok%C3%A9mon) you can catch in Colosseum are repeatable - every trainer has a rematch location somewhere after you've beaten the game. So actually, unless you're particularly annoyed by a certain Pokémon battle in this one, I'd suggest giving your Master Ball to a Pokémon and trading it to one of the Generation 3 games, then bringing it up to Generation 4 (as a held item via [Pal Park](https://bulbapedia.bulbagarden.net/wiki/Pal_Park#Modifications_to_transported_Pok%C3%A9mon)) where you can use it in games that have more than one roaming Pokémon.
 
-MISSINGNO IMAGE GOES HERE
+![](/assets/img/MissingNo.png)
 *The canonical "no Pokémon to display" image*
 
 ## Diamond & Pearl
 Woe is you - there are multiple roaming Pokémon this time. Cresselia and Mesprit both roam after you fulfill [their criteria](https://www.serebii.net/diamondpearl/legendaries.shtml). Take a note of my suggestion in the Colosseum & XD: Gale of Darkness section - you could use that to get additional Master Balls.
 
-TABLE GOES HERE
+| Cresselia                | Mesprit              |
+|:------------------------:|:--------------------:|
+| ![](/assets/img/Cresselia.png){:style="max-height: 200px"} | ![](/assets/img/Mesprit.png){:style="max-height: 200px"} |
 
 There aren't any particularly good reasons to use a single Master Ball on one or the other. They have the same [Catch Rate](https://bulbapedia.bulbagarden.net/wiki/Catch_rate). Neither has a healing move. In the tiniest of tiny advantages, Mesprit has [Lucky Chant](https://bulbapedia.bulbagarden.net/wiki/Lucky_Chant_(move)), which prevents you from landing critical hits. Since crits are generally *bad* when you're trying to capture a Pokémon, that could push you to use your Master Ball on Cresselia. But either is a good choice.
 
 ## Heart Gold & Soul Silver
 
-Woe, once again. There are 3 roaming Pokémon in each copy of these games. Raikou and Entei roam after the [Burned Tower](https://bulbapedia.bulbagarden.net/wiki/Burned_Tower) and Latias in Heart Gold and Latios in Soul Silver roam after a [very easy to miss side quest (scroll to the bottom)](https://www.serebii.net/heartgoldsoulsilver/legends.shtml). You can always go back and trigger it later.
+Woe, once again. There are 3 roaming Pokémon in each copy of these games. Raikou and Entei roam after the [Burned Tower](https://bulbapedia.bulbagarden.net/wiki/Burned_Tower) and Latias in Heart Gold and Latios in Soul Silver roam after a [very easy to ignore side quest (scroll to the bottom)](https://www.serebii.net/heartgoldsoulsilver/legends.shtml). You can go back and trigger it later.
 
-TABLE GOES HERE
+| Entei                 | Raikou              | Latios                 | Latias              |
+|:---------------------:|:-------------------:|:----------------------:|:-------------------:|
+| ![](/assets/img/Entei.png) | ![](/assets/img/Raikou.png) | ![](/assets/img/Latios.png) | ![](/assets/img/Latias.png) |
 
 Oof, there are good reasons to choose any of these. Latios and Latias know [Refresh](https://bulbapedia.bulbagarden.net/wiki/Refresh_(move)), so they'll remove some statuses you can afflict them with. They also have Levitate, so they're immune to Arena Trap (you have to use Shadow Tag or Mean Look instead). But Entei and Raikou *both* know Roar.
 
-Roar's the deciding factor here. Use the Master Ball on one of Entei or Raikou, and catch the other plus Latios/Latias the old fashioned way.
+Roar's the deciding factor here. **Use the Master Ball on one of Entei or Raikou**, and catch the other plus Latios/Latias the old fashioned way.
 
 ## Platinum
 Why is this not grouped with Diamond & Pearl? Because Platinum adds *3 more roaming Pokémon*! The legendary birds from Kanto roam Sinnoh in Platinum after talking to Professor Oak in [Eterna City](https://bulbapedia.bulbagarden.net/wiki/Eterna_City) (you have to meet him in Pal Park first for him to show up here). And the *pièce de résistance*? They all know [Roost](https://bulbapedia.bulbagarden.net/wiki/Roost_(move)) so they can heal themselves.
 
-TABLE GOES HERE
+| Cresselia                | Mesprit              | Articuno          | Zapdos          | Moltres            |
+|:------------------------:|:--------------------:|:-----------------:|:---------------:|:------------------:|
+| ![](/assets/img/Cresselia.png) | ![](/assets/img/Mesprit.png) | ![](/assets/img/Articuno.png) | ![](/assets/img/Zapdos.png) | ![](/assets/img/Moltres.png) |
 
-Mesprit and Cresselia are no longer the priority - roaming with healing moves, you should use the Master Ball on one of the legendary birds. But you still have the other 4 to catch the old fashioned way!
+Mesprit and Cresselia are no longer the priority - roaming with healing moves, you should **use the Master Ball on one of the legendary birds**. But you still have the other 4 to catch the old fashioned way!
 
 ## Black & White
 Back to sanity, Tornadus and Thundurus are the only roaming Pokémon in these games: Tornadus in Black and Thundurus in White.
 
-TABLE GOES HERE
+| Tornadus                 | Thundurus            |
+|:------------------------:|:--------------------:|
+| ![](/assets/img/Tornadus.png){:style="max-height: 200px"} | ![](/assets/img/Thundurus.png){:style="max-height: 200px"} |
 
 Easy choice, use the Master Ball on whichever of these two is in your game.
 
@@ -114,42 +129,54 @@ This leaves you with a [veritable smorgasbord](https://www.serebii.net/black2whi
 
 **Cresselia is my choice for best Master Ball target here**, because it knows [Moonlight](https://bulbapedia.bulbagarden.net/wiki/Moonlight_(move)) this time, which is a significant healing move. Alternatively, Virizion has [Giga Drain](https://bulbapedia.bulbagarden.net/wiki/Giga_Drain_(move)) which can also heal enough to be a problem. But there is a (somewhat harrowing) workaround - if you defeat Virizion when you meet it first at level 45 and then return after defeating the Elite Four, it will be level 65 instead, and will no longer know Giga Drain.
 
-TABLE GOES HERE
+| Cresselia                | Virizion              |
+|:------------------------:|:---------------------:|
+| ![](/assets/img/Cresselia.png){:style="max-height: 200px"} | ![](/assets/img/Virizion.png){:style="max-height: 200px"} |
 
 Black 2 & White 2 are also one of the very few games where you *reliably get 2 Master Balls*. So if you've got both, use them on the two Pokémon I've suggested here!
 
-Notably, Reshiram and Zekrom have *significantly* higher Catch Rates than all of the other legends, so despite them being on the box art (sort of), they're not really worth throwing a Master Ball at.
+Notably, Reshiram and Zekrom have *significantly* higher Catch Rates than all of the other legends, so despite them being on the box art (sort of), they're **not really worth throwing a Master Ball at**.
 
 ## X & Y
-*Technically* there is sort of a roaming Pokémon in these games, but they don't use the same roaming mechanics I described earlier, so in practice they're much less of a problem and **I wouldn't use the Master Ball** on them. Once again, the Kanto legendary birds make an appearance. (Articuno if you started with Chespin, Zapdos for Fennekin, or Moltres for Froakie.)
+*Technically* there is sort of a roaming Pokémon in these games, but they don't use the same roaming mechanics I described earlier, so in practice they're much less of a problem and **I wouldn't use the Master Ball** on them. It is once again, the Kanto legendary birds. (Articuno if you started with Chespin, Zapdos for Fennekin, or Moltres for Froakie.)
 
-TABLE GOES HERE
+| Articuno          | Zapdos          | Moltres            |
+|:-----------------:|:---------------:|:------------------:|
+| ![](/assets/img/Articuno.png) | ![](/assets/img/Zapdos.png) | ![](/assets/img/Moltres.png) |
 
-Since Mewtwo knows Recover in these games, I think it's the best Master Ball target.
+However, I think **Mewtwo is the best Master Ball target** in these games, because it knows Recover.
 
-IMAGE GOES HERE
+![](/assets/img/MewtwoOriginal.png){:style="max-height: 200px"}
 *Like it's 1996 again*
 
-Alternaitvely, in *Y only*, Yveltal's [Oblivion Wing](https://bulbapedia.bulbagarden.net/wiki/Oblivion_Wing_(move)) does heal it. But Yveltal's catch rate is so much higher than Mewtwo's, I think Mewtwo is still the better target.
+Alternatively, in *Y only*, Yveltal's [Oblivion Wing](https://bulbapedia.bulbagarden.net/wiki/Oblivion_Wing_(move)) does heal it. But Yveltal's Catch Rate is so much higher than Mewtwo's, I think Mewtwo is still the better target.
 
 ## Omega Ruby & Alpha Sapphire
-Once again, there are no roaming Pokémon here. But there are [*a lot* of legends to choose from](https://www.serebii.net/omegarubyalphasapphire/legendary.shtml). We're once again using move sets to make our choice, and here, Deoxys knowing Recover is the deciding factor for me. It's also level 80, which is pretty high, so it's difficult to tank those [Psycho Boost](https://bulbapedia.bulbagarden.net/wiki/Psycho_Boost_(move))s and [Hyper Beam](https://bulbapedia.bulbagarden.net/wiki/Hyper_Beam_(move))s for long, even with Mega Rayquaza on your side.
+Once again, there are no roaming Pokémon here. But there are [*a lot* of legends to choose from](https://www.serebii.net/omegarubyalphasapphire/legendary.shtml). We're once again using move sets to make our choice, and here, **Deoxys knowing Recover is the deciding factor** for me. It's also level 80, which is pretty high, so it's difficult to tank those [Psycho Boost](https://bulbapedia.bulbagarden.net/wiki/Psycho_Boost_(move))s and [Hyper Beam](https://bulbapedia.bulbagarden.net/wiki/Hyper_Beam_(move))s for long, even with Mega Rayquaza on your side.
 
-IMAGE GOES HERE
+![](/assets/img/MegaRayquazaFightsDeoxys.jpg){:style="max-height: 200px"}
+*And you get to fight it **in space***
 
 Honorable mention for Virizion yet again as a secondary Master Ball target, who *always* knows Giga Drain this time.
 
 ## Sun & Moon
 And again, no roaming Pokémon here! The choice here is reasonably straightforward: as the only legendary Pokémon that knows a healing move, Tapu Fini is my choice for best Master Ball target.
 
-IMAGE GOES HERE
+![](/assets/img/TapuFini.png){:style="max-height: 200px"}
+
 
 ## Ultra Sun & Ultra Moon
 No roaming Pokémon here either, but there is a [*huge* list of legends](https://www.serebii.net/ultrasunultramoon/legendary.shtml) to catch, thanks to the [Ultra Wormholes](https://www.serebii.net/ultrasunultramoon/ultrawormholes.shtml). And there is a pretty large list of healers as well, who all make good Master Ball candidates.
 
-Tapu Fini with Aqua Ring, Mewtwo with Recover, Latias with Wish (Ultra Moon only), Rayquaza with Rest, Cresselia with Moonlight, Virizion with Giga Drain, and Yveltal with Oblivion Wing.
+Tapu Fini with Aqua Ring, Mewtwo with Recover, Latias with Wish (Ultra Moon only), Rayquaza with [Rest](https://bulbapedia.bulbagarden.net/wiki/Rest_(move)), Cresselia with Moonlight, Virizion with Giga Drain, and Yveltal with Oblivion Wing.
 
-TABLE GOES HERE
+| Tapu Fini        | Mewtwo           | Latias          |
+|:----------------:|:----------------:|:---------------:|
+| ![](/assets/img/TapuFini.png) | ![](/assets/img/Mewtwo.png) | ![](/assets/img/Latias.png) |
+
+| Rayquaza          | Cresselia            | Virizion         | Yveltal           |
+|:-----------------:|:--------------------:|:----------------:|:-----------------:|
+| ![](/assets/img/Rayquaza.png) | ![](/assets/img/Cresselia.png) | ![](/assets/img/Virizion.png) | ![](/assets/img/Yveltal.png) |
 
 This is a tough one. Yveltal's higher Catch Rate means we don't need a Master Ball for it as much. Virizion's Giga Drain is mitigate-able (use something that resists Grass), which counts it out too. Tapu Fini's Aqua Ring healing is slow, so you get to use multiple Pokéballs before it's significantly healed every time.
 

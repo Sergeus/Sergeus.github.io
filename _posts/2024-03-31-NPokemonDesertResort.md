@@ -51,7 +51,7 @@ Also, N's Pokémon are level 22 or higher here and all the wild Pokémon only go
 3 of N's Pokémon are here: Pidove, Timburr, and Tympole.
 
 | Pidove                | Timburr             | Tympole                  |
-|:---------------------:|:-------------------:|:                        :|
+|:---------------------:|:-------------------:|:------------------------:|
 | ![](/assets/img/Pidove.png) | ![](/assets/img/Timburr.png) | ![](/assets/img/Tympole.png) |
 
 So you thought you'd learned your lesson at the Desert Resort, right? Always go inside the location if it has an interior and exterior route? Well then *you'd be mistaken*! It's the opposite this time - N's Pokémon are outside in the area with the pools of water and the train tracks!
