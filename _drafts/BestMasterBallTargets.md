@@ -18,24 +18,26 @@ Firstly, catching [roaming Pokémon](https://bulbapedia.bulbagarden.net/wiki/Roa
 
 You have to train up a team that's high enough level to tank hits from them while you're throwing pokéballs.
 
-Any Pokémon you send out also needs to prevent them from running away. Candidates for that include the move [Mean Look](https://bulbapedia.bulbagarden.net/wiki/Mean_Look_(move)), but you'd better be faster than the roaming Pokémon, otherwise they'll run away before you get to use it. Or you could use the abilities [Arena Trap](https://www.serebii.net/abilitydex/arenatrap.shtml) or [Shadow Tag](https://www.serebii.net/abilitydex/shadowtag.shtml), but be careful! Arena Trap doesn't work on Flying Pokémon or Pokémon with [Levitate](https://www.serebii.net/abilitydex/levitate.shtml) (like Latios/Latias, god damn).
+Any Pokémon you send out also needs to prevent them from running away. Candidates for that include the moves [Mean Look](https://bulbapedia.bulbagarden.net/wiki/Mean_Look_(move)) and [Block](https://bulbapedia.bulbagarden.net/wiki/Block_(move)), but you'd better be faster than the roaming Pokémon, otherwise they'll run away before you get to use it. Or you could use the abilities [Arena Trap](https://www.serebii.net/abilitydex/arenatrap.shtml) or [Shadow Tag](https://www.serebii.net/abilitydex/shadowtag.shtml), but be careful! Arena Trap doesn't work on Flying Pokémon or Pokémon with [Levitate](https://www.serebii.net/abilitydex/levitate.shtml) (like Latios/Latias, god damn).
 
-IMAGE GOES HERE
-*Latios running away from my Dugtrio with Arena Trap was very upsetting*
+![](/assets/img/CouldNotEscape.png){:style="max-height: 200px"}
+*But when **you** try to escape from a battle*
 
-But even if you do that - some of them have [Roar](https://bulbapedia.bulbagarden.net/wiki/Roar_(move)) (Entei, this is unacceptable), so they can "run away" using that anyway. You could use the ability [Soundproof](https://www.serebii.net/abilitydex/soundproof.shtml) to become immune to Roar, but then you don't have Arena Trap or Shadow Tag. And *there are no Pokémon with Soundproof that can learn Mean Look*. So that just doesn't work.
+But even if you do that - some of them have [Roar](https://bulbapedia.bulbagarden.net/wiki/Roar_(move)) (Entei, this is unacceptable), so they can "run away" using that anyway. You could use the ability [Soundproof](https://www.serebii.net/abilitydex/soundproof.shtml) to become immune to Roar, but then you don't have Arena Trap or Shadow Tag. And *there are no Pokémon with Soundproof that can learn Mean Look or Block*. So that just doesn't work.
 
-Then you probably want to inflict a status condition on them as well, to make catching more likely. If your trap Pokémon has a status move to put them to sleep that's probably the best combination. [Gothitelle](https://www.serebii.net/pokedex-bw/576.shtml) is a good option here, because it gets Shadow Tag and can learn Hypnosis. [Wobbuffet](https://www.serebii.net/pokedex-gs/202.shtml) doesn't have a status move, but it does have Shadow Tag and is tanky so you have more time to throw Pokéballs.
+Then you probably want to inflict a status condition on them as well, to make catching more likely. If your trap Pokémon has a status move to put them to sleep that's probably the best combination. [Gothitelle](https://www.serebii.net/pokedex-bw/576.shtml) is a good option here, because it gets Shadow Tag and can learn Hypnosis. It is introduced in Generation 5 (Black & White) though, so [Wobbuffet](https://www.serebii.net/pokedex-gs/202.shtml) is likely your best bet before that. It doesn't have a status move, but it does have Shadow Tag and is tanky so you have more time to throw Pokéballs.
 
 In some games, roaming Pokémon can run away while asleep, which led to [one of my favorite webcomics](https://www.awkwardzombie.com/comic/runaway).
 
-IMAGE GOES HERE
+![](/assets/img/EnteiSleep.jpg){:style="max-height: 200px"}
+*It's all just been a multi-decade advertising campaign for Pokémon Sleep*
 
-Roaming Pokémon also generally keep damage and statuses between encounters (as long as you don't knock them out). So you could use a fast status-setter and [False Swipe](https://bulbapedia.bulbagarden.net/wiki/False_Swipe_(move)) over multiple encounters to whittle them down to 1 HP and inflict a status over multiple encounters. But then you have to *find* them however many times to actually get to that position (use the various Pokédex/location tracking features in the game once you've seen them once, but that can be an unwieldy set of menus).
+Roaming Pokémon also generally keep damage and statuses between encounters (as long as you don't knock them out). So you could use a fast status-setter and [False Swipe](https://bulbapedia.bulbagarden.net/wiki/False_Swipe_(move)) over multiple encounters to whittle them down to 1 HP and inflict a status condition. But then you have to *find* them however many times to actually get to that position (use the various Pokédex/location tracking features in the game once you've seen them once, but that can be an unwieldy set of menus).
 
 And I mentioned knocking them out, right? The behavior when you knock them out varies per game. Some games (generally later ones) they will respawn at full health if you beat the Elite Four again. But in a lot of the earlier ones they're just *lost forever*, so you need to be careful about saving and resetting while doing that.
 
-IMAGE GOES HERE
+![](/assets/img/RaikouWild.jpg){:style="max-height: 200px"}
+*It's daring you to knock it out*
 
 Ok. Alternatively. Instead of *all of that*. You could just throw a Master Ball at them when you first see them. I think you see now why I prefer that option. (But there are more than one roaming Pokémon in some games, so you'll have to hunt some roamers like this.)
 
@@ -44,19 +46,20 @@ The other thing that makes a Pokémon a good candidate for the Master Ball is if
 
 Pokémon that can heal themselves make hard catch targets, but the menagerie of difficulties with roaming Pokémon mean that I still prioritize using the Master Ball on roamers over healers.
 
-IMAGE GOES Here
+![](/assets/img/ArticunoSus.png)
 *But what if a Pokémon was both!? Huh, Platinum Articuno!?*
 
-Slow heals like [Aqua Ring](https://bulbapedia.bulbagarden.net/wiki/Aqua_Ring_(move)) can also be particularly difficult, because it doesn't all happen at once.
+Slow heals like [Aqua Ring](https://bulbapedia.bulbagarden.net/wiki/Aqua_Ring_(move)) can also be difficult, because it doesn't all happen at once and isn't limited by PP.
 
 You do have some mitigation options for healing like [Heal Block](https://bulbapedia.bulbagarden.net/wiki/Heal_Block_(move)), but it's never become such a big problem that I tried this.
 
 ## The Lottery
 It would be remiss of me to discuss the Master Ball as a limited resource without at least mentioning the lottery. In various Pokémon games, the Master Ball is one of the grand prizes for the in-game lottery, where every day the game generates a random number and compares the Trainer IDs of your Pokémon against it. Having Pokémon from many different trainers clearly increases your chances of winning, but the Master Ball is generally in the top category for matching all of the numbers, so it is still very unlikely.
 
-IMAGE GOES HERE
+![](/assets/img/LotteryMatch.jpg){:style="max-height: 200px"}
+*The folks [here](https://guidestrats.com/pokemon-platinum-lottery-corner/) do the math*
 
-Given how slow and unreliable this method is, even for catching roaming Pokémon I don't consider it a serious option, because it's more reliable (and almost always faster) to train a team up to effectively hunt roaming Pokémon than to win this lottery.
+This is slow and unreliable (0.83% chance per day in Platinum, even if you have the maximum 546 Pokémon in your game and *no two are from the same trainer*). Even for catching roaming Pokémon I don't consider it a serious option, because it's more reliable (and almost always faster) to train a team up to effectively hunt roaming Pokémon than to win this lottery.
 
 # List of Best Master Ball Targets
 Here we are - by game, my selections for the list of best Pokémon to use your only Master Ball on. I'm starting at Generation 3, because I haven't yet replayed the Virtual Console Generation 1 and 2 games. (I might update this list in the future if I do.)
@@ -168,7 +171,7 @@ And again, no roaming Pokémon here! The choice here is reasonably straightforwa
 ## Ultra Sun & Ultra Moon
 No roaming Pokémon here either, but there is a [*huge* list of legends](https://www.serebii.net/ultrasunultramoon/legendary.shtml) to catch, thanks to the [Ultra Wormholes](https://www.serebii.net/ultrasunultramoon/ultrawormholes.shtml). And there is a pretty large list of healers as well, who all make good Master Ball candidates.
 
-Tapu Fini with Aqua Ring, Mewtwo with Recover, Latias with Wish (Ultra Moon only), Rayquaza with [Rest](https://bulbapedia.bulbagarden.net/wiki/Rest_(move)), Cresselia with Moonlight, Virizion with Giga Drain, and Yveltal with Oblivion Wing.
+Tapu Fini with Aqua Ring, Mewtwo with Recover, Latias with Wish (Ultra Moon only), Rayquaza with [Rest](https://bulbapedia.bulbagarden.net/wiki/Rest_(move)), Cresselia with Moonlight, Virizion with Giga Drain, and Yveltal with Oblivion Wing (Ultra Moon only).
 
 | Tapu Fini        | Mewtwo           | Latias          |
 |:----------------:|:----------------:|:---------------:|
@@ -178,7 +181,7 @@ Tapu Fini with Aqua Ring, Mewtwo with Recover, Latias with Wish (Ultra Moon only
 |:-----------------:|:--------------------:|:----------------:|:-----------------:|
 | ![](/assets/img/Rayquaza.png) | ![](/assets/img/Cresselia.png) | ![](/assets/img/Virizion.png) | ![](/assets/img/Yveltal.png) |
 
-This is a tough one. Yveltal's higher Catch Rate means we don't need a Master Ball for it as much. Virizion's Giga Drain is mitigate-able (use something that resists Grass), which counts it out too. Tapu Fini's Aqua Ring healing is slow, so you get to use multiple Pokéballs before it's significantly healed every time.
+This is a tough one. Yveltal's higher Catch Rate means we don't need a Master Ball for it as much (and would only be in consideration for Ultra Moon anyway). Virizion's Giga Drain is mitigate-able (use something that resists Grass), which counts it out too. Tapu Fini's Aqua Ring healing is slow, so you get to use multiple Pokéballs before it's significantly healed every time.
 
 Latias's Wish is less consistent because it takes 2 turns, so it wastes a few of them on the turn between (and is obviously irrelevant in Ultra Sun).
 
