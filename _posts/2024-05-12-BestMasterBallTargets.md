@@ -3,7 +3,7 @@ title: Best Master Ball Targets
 inline_title: true
 ---
 
-The Master Ball, the guaranteed-100%-catch-chance Pokéball, is something you usually only get 1 of in an individual Pokémon game. So I always stop to consider what targets are the best to use it against in each game. While revisiting the games recently, I quite wanted to see a list like this that collates all of the information together, so now I'm writing one. So, here are my picks for the best Master Ball targets in each game that are a part of my [eleventh hour scramble]({% post_url 2024-03-10-EleventhHourScramble %}) to finish all of the pre-Bank Pokémon games, and collect the unique legends that they contain.
+The Master Ball, the guaranteed-100%-catch-chance Pokéball, is something you usually only get 1 of in an individual Pokémon game. While revisiting the games recently during my [eleventh hour scramble]({% post_url 2024-03-10-EleventhHourScramble %}) to finish all of the pre-Bank Pokémon games, I quite wanted to see a list that goes through all of the best possible targets for your Master Ball in each game. I didn't find one, so now I've written one.
 
 ![](/assets/img/master-ball.png)
 *The [GS Ball](https://bulbapedia.bulbagarden.net/wiki/GS_Ball) has nothing on this*
@@ -30,7 +30,7 @@ Then you probably want to inflict a status condition on them as well, to make ca
 In some games, roaming Pokémon can run away while asleep, which led to [one of my favorite webcomics](https://www.awkwardzombie.com/comic/runaway).
 
 ![](/assets/img/EnteiSleep.jpg){:style="max-height: 200px"}
-*It's all just been a multi-decade advertising campaign for Pokémon Sleep*
+*It's all just been a multi-decade advertising campaign for [Pokémon Sleep](https://www.pokemon.com/uk/pokemon-video-games/pokemon-sleep)*
 
 Roaming Pokémon also generally keep damage and statuses between encounters (as long as you don't knock them out). So you could use a fast status-setter and [False Swipe](https://bulbapedia.bulbagarden.net/wiki/False_Swipe_(move)) over multiple encounters to whittle them down to 1 HP and inflict a status condition. But then you have to *find* them however many times to actually get to that position (use the various Pokédex/location tracking features in the game once you've seen them once, but that can be an unwieldy set of menus).
 
@@ -54,7 +54,7 @@ Slow heals like [Aqua Ring](https://bulbapedia.bulbagarden.net/wiki/Aqua_Ring_(m
 You do have some mitigation options for healing like [Heal Block](https://bulbapedia.bulbagarden.net/wiki/Heal_Block_(move)), but it's never become such a big problem that I tried this.
 
 ## The Lottery
-It would be remiss of me to discuss the Master Ball as a limited resource without at least mentioning the lottery. In various Pokémon games, the Master Ball is one of the grand prizes for the in-game lottery, where every day the game generates a random number and compares the Trainer IDs of your Pokémon against it. Having Pokémon from many different trainers clearly increases your chances of winning, but the Master Ball is generally in the top category for matching all of the numbers, so it is still very unlikely.
+It would be remiss of me to discuss the Master Ball as a limited resource without at least mentioning the lottery. In various Pokémon games, additional Master Balls are the grand prizes for the in-game lottery, where every day the game generates a random number and compares the Trainer IDs of your Pokémon against it. Having Pokémon from many different trainers clearly increases your chances of winning, but the Master Ball is generally in the top category for matching all of the numbers, so it is still very unlikely.
 
 ![](/assets/img/LotteryMatch.jpg){:style="max-height: 200px"}
 *The folks [here](https://guidestrats.com/pokemon-platinum-lottery-corner/) do the math*
@@ -103,7 +103,7 @@ Woe, once again. There are 3 roaming Pokémon in each copy of these games. Raiko
 |:---------------------:|:-------------------:|:----------------------:|:-------------------:|
 | ![](/assets/img/Entei.png) | ![](/assets/img/Raikou.png) | ![](/assets/img/Latios.png) | ![](/assets/img/Latias.png) |
 
-Oof, there are good reasons to choose any of these. Latios and Latias know [Refresh](https://bulbapedia.bulbagarden.net/wiki/Refresh_(move)), so they'll remove some statuses you can afflict them with. They also have Levitate, so they're immune to Arena Trap (you have to use Shadow Tag or Mean Look instead). But Entei and Raikou *both* know Roar.
+Oof, there are good reasons to choose any of these. Latios and Latias know [Refresh](https://bulbapedia.bulbagarden.net/wiki/Refresh_(move)), so they'll remove some statuses you can afflict them with. They also have Levitate, so they're immune to Arena Trap (you have to use Shadow Tag, Mean Look, or Block instead). But Entei and Raikou *both* know Roar.
 
 Roar's the deciding factor here. **Use the Master Ball on one of Entei or Raikou**, and catch the other plus Latios/Latias the old fashioned way.
 
@@ -138,10 +138,10 @@ This leaves you with a [veritable smorgasbord](https://www.serebii.net/black2whi
 
 Black 2 & White 2 are also one of the very few games where you *reliably get 2 Master Balls*. So if you've got both, use them on the two Pokémon I've suggested here!
 
-Notably, Reshiram and Zekrom have *significantly* higher Catch Rates than all of the other legends, so despite them being on the box art (sort of), they're **not really worth throwing a Master Ball at**.
+Notably, Reshiram and Zekrom have *significantly* higher Catch Rates than all of the other legends available in these games, so despite them being on the box art (sort of), they're **not really worth throwing a Master Ball at**.
 
 ## X & Y
-*Technically* there is sort of a roaming Pokémon in these games, but they don't use the same roaming mechanics I described earlier, so in practice they're much less of a problem and **I wouldn't use the Master Ball** on them. It is once again, the Kanto legendary birds. (Articuno if you started with Chespin, Zapdos for Fennekin, or Moltres for Froakie.)
+*Technically* there is sort of a single roaming Pokémon in these games, but they don't use the same roaming mechanics I described earlier, so in practice they're much less of a problem and **I wouldn't use the Master Ball** on them. It is once again, the Kanto legendary birds. (Articuno if you started with Chespin, Zapdos for Fennekin, or Moltres for Froakie.)
 
 | Articuno          | Zapdos          | Moltres            |
 |:-----------------:|:---------------:|:------------------:|
