@@ -189,3 +189,8 @@ In the end, I'm going to pick **Rayquaza** as the best Master Ball target here, 
 
 # The End
 And there we have it! That's my list of pre-Bank Pokémon Master Ball target recommendations. I hope this has helped a few of you find out where to use those precious Master Balls best!
+
+And if you still can't decide, you can always go with my suggestion from a [previous post]({% post_url 2018-01-07-ShedinjaMasterBall %}):
+
+![](/assets/img/master-ball-magikarp.jpg){:style="max-height:250px;"}
+*Clearly the best Master Ball target*
