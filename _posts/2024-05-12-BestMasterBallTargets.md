@@ -179,7 +179,7 @@ Tapu Fini with Aqua Ring, Mewtwo with Recover, Latias with Wish (Ultra Moon only
 
 | Rayquaza          | Cresselia            | Virizion         | Yveltal           |
 |:-----------------:|:--------------------:|:----------------:|:-----------------:|
-| ![](/assets/img/Rayquaza.png) | ![](/assets/img/Cresselia.png) | ![](/assets/img/Virizion.png) | ![](/assets/img/Yveltal.png) |
+| ![](/assets/img/rayquaza.png) | ![](/assets/img/Cresselia.png) | ![](/assets/img/Virizion.png) | ![](/assets/img/Yveltal.png) |
 
 This is a tough one. Yveltal's higher Catch Rate means we don't need a Master Ball for it as much (and would only be in consideration for Ultra Moon anyway). Virizion's Giga Drain is mitigate-able (use something that resists Grass), which counts it out too. Tapu Fini's Aqua Ring healing is slow, so you get to use multiple Pokéballs before it's significantly healed every time.
 
